@@ -43,7 +43,7 @@ export default function SiteHeader() {
       <div className="wrap hdr-main">
         <Logo />
         <div className="btn-row">
-          <Link href="/contact" className="btn btn-accent" style={{ minHeight: 46, fontSize: 13 }}>Request a quote →</Link>
+          <Link href="/contact" className="btn btn-accent hdr-cta" style={{ minHeight: 46, fontSize: 13 }}>Request a quote →</Link>
           <button
             type="button"
             className="hdr-burger"
@@ -109,6 +109,7 @@ export default function SiteHeader() {
               </div>
             );
           })}
+          <Link href="/contact" className="btn btn-accent nav-cta">Request a quote →</Link>
         </div>
       </nav>
     </header>

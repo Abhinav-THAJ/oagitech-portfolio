@@ -24,7 +24,7 @@ export default async function ContactPage({ searchParams }: { searchParams: Prom
             <Image src="/images/contact.jpg" alt="Oagitech office and workshop building in Yanbu" fill sizes="(max-width: 820px) 100vw, 40vw" style={{ objectFit: 'cover' }} />
             <div className="frame-tag">YANBU 46436 · AL RABIE DISTRICT</div>
           </div>
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(180px, 1fr))', borderTop: '2px solid var(--ink)' }}>
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(min(180px, 100%), 1fr))', borderTop: '2px solid var(--ink)' }}>
             {[
               { k: 'PHONE', v: CONTACT.phone, href: CONTACT.phoneHref },
               { k: 'EMAIL', v: CONTACT.email, href: `mailto:${CONTACT.email}` },

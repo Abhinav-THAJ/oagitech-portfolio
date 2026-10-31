@@ -44,7 +44,7 @@ export default function QuoteForm({ initialCompany = '', initialPhone = '' }: { 
         {step === 1 && (
           <fieldset style={{ border: 0, margin: 0, padding: 0, display: 'flex', flexDirection: 'column', gap: 18 }}>
             <legend className="disp" style={{ fontSize: 40, marginBottom: 18 }}>What do you need?</legend>
-            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: 10 }}>
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(min(200px, 100%), 1fr))', gap: 10 }}>
               {SERVICES.map(([k, l]) => (
                 <button key={k} type="button" aria-pressed={f.service === k} onClick={() => setF({ ...f, service: k })}
                   style={{ minHeight: 58, textAlign: 'left', padding: '0 16px', cursor: 'pointer', fontSize: 16, fontWeight: f.service === k ? 600 : 500,

@@ -39,7 +39,7 @@ export default function TrainingPage() {
           <Frame src="/images/tr-hub.jpg" alt="Trainees in a technical safety training classroom" priority style={{ flex: '1 1 440px', minWidth: 0, minHeight: 480, background: 'var(--ink-3)' }} />
         </div>
         <div style={{ borderTop: '1px solid var(--line-dark)' }}>
-          <div className="wrap" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))' }}>
+          <div className="wrap" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(min(220px, 100%), 1fr))' }}>
             {[[String(courses.length), 'COURSES'], ['EXAM', 'COMPETENCY-BASED'], ['EN · AR', 'LANGUAGES'], ['ONLINE', 'CERTIFICATE VERIFICATION']].map(([v, k], i) => (
               <div key={k} style={{ padding: '26px 24px', paddingLeft: i ? 24 : 0, borderRight: i < 3 ? '1px solid var(--line-dark)' : 0 }}>
                 <div className="disp" style={{ fontSize: 48 }}>{v}</div>
