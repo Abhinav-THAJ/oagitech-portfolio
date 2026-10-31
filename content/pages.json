@@ -1,0 +1,4840 @@
+[
+  {
+    "pillarKey": "insp",
+    "pillar": "",
+    "pillarHref": "",
+    "crumb": "Inspection",
+    "tag": "DISCIPLINE 01",
+    "code": "INSP",
+    "title": "Inspection & integrity",
+    "intro": "Independent inspection, asset integrity and QA/QC support that keeps critical equipment safe, compliant and in service — from fabrication yard to plant turnaround.",
+    "img": "/images/insp-hub.jpg",
+    "imgAlt": "Inspector walking a pipe rack checking flanges at dawn",
+    "cta": "Request an inspection",
+    "facts": [
+      {
+        "k": "SERVICES",
+        "v": "3 LINES"
+      },
+      {
+        "k": "COVERAGE",
+        "v": "ONSITE · KSA"
+      },
+      {
+        "k": "REPORTING",
+        "v": "IMPARTIAL"
+      },
+      {
+        "k": "STANDARDS",
+        "v": "LOCAL + INTL."
+      }
+    ],
+    "sections": [
+      {
+        "kind": "index",
+        "eyebrow": "INSPECTION SERVICES",
+        "heading": "Choose a service",
+        "body": "Three service lines, one reporting standard. Every report is impartial, traceable and ready for audit.",
+        "items": [
+          {
+            "t": "Asset Integrity",
+            "d": "Shutdown and turnaround inspection of pressure vessels, piping, tanks, exchangers and rotating equipment.",
+            "href": "/inspection/asset-integrity"
+          },
+          {
+            "t": "QA/QC Project Management",
+            "d": "Structured QA/QC plans, total document control and technical procedure preparation.",
+            "href": "/inspection/qa-qc-project-management"
+          },
+          {
+            "t": "Third Party Inspection",
+            "d": "Independent inspection and expediting for pressure equipment, lifting gear and structural steel.",
+            "href": "/inspection/third-party-inspection"
+          }
+        ]
+      },
+      {
+        "kind": "grid",
+        "tone": "ink",
+        "eyebrow": "WHAT WE INSPECT",
+        "heading": "Equipment covered",
+        "items": [
+          {
+            "t": "Pressure vessels",
+            "d": "Fabrication, in-service and post-repair inspection."
+          },
+          {
+            "t": "Piping systems",
+            "d": "Material verification, weld inspection and hydrotest witnessing."
+          },
+          {
+            "t": "Storage tanks",
+            "d": "Shell, floor and roof condition assessment."
+          },
+          {
+            "t": "Lifting equipment",
+            "d": "Cranes, hooks, slings, gears and lifting platforms."
+          },
+          {
+            "t": "Structural steel",
+            "d": "Fabrication and installation-stage inspection."
+          },
+          {
+            "t": "Rotating machinery",
+            "d": "Condition checks during planned shutdowns."
+          }
+        ]
+      },
+      {
+        "kind": "steps",
+        "eyebrow": "HOW IT WORKS",
+        "heading": "From scope to sign-off",
+        "items": [
+          {
+            "t": "Scope",
+            "d": "Inspection plan, schedule and resources aligned to your priorities."
+          },
+          {
+            "t": "Inspect",
+            "d": "Certified inspectors on site with calibrated equipment."
+          },
+          {
+            "t": "Verify",
+            "d": "Findings checked against codes, specs and regulations."
+          },
+          {
+            "t": "Report",
+            "d": "Clear, impartial reports and documentation for your records."
+          }
+        ]
+      }
+    ],
+    "relatedLabel": "ALSO IN TECHNICAL SERVICES",
+    "related": [
+      {
+        "t": "Welding",
+        "href": "/welding"
+      },
+      {
+        "t": "NDT",
+        "href": "/ndt"
+      },
+      {
+        "t": "Calibration",
+        "href": "/calibration"
+      }
+    ],
+    "ctaTitle": "Plan your next inspection with us.",
+    "path": "/inspection"
+  },
+  {
+    "pillarKey": "insp",
+    "pillar": "Inspection",
+    "pillarHref": "/inspection",
+    "crumb": "Asset Integrity",
+    "tag": "INSPECTION",
+    "code": "INSP-01",
+    "title": "Asset integrity",
+    "intro": "Comprehensive asset integrity inspection that finds problems early and keeps critical industrial equipment reliable, safe and performing for the long term.",
+    "img": "/images/asset-integrity.jpg",
+    "imgAlt": "Inspectors examining the inside of an opened pressure vessel",
+    "cta": "Plan a turnaround inspection",
+    "facts": [
+      {
+        "k": "FOCUS",
+        "v": "SHUTDOWN / TA"
+      },
+      {
+        "k": "TEAM",
+        "v": "CERTIFIED"
+      },
+      {
+        "k": "METHODS",
+        "v": "VISUAL + NDT"
+      },
+      {
+        "k": "OUTPUT",
+        "v": "FULL DOSSIER"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "steps",
+        "eyebrow": "PLANT SHUTDOWN / TURNAROUND",
+        "heading": "Ready to restart, safely",
+        "body": "Certified inspectors and engineers support every stage of a planned shutdown so your plant restarts safely and on schedule.",
+        "items": [
+          {
+            "t": "Pre-shutdown planning",
+            "d": "Inspection scopes, schedules and resource plans aligned to your operational priorities."
+          },
+          {
+            "t": "On-site inspection",
+            "d": "Critical equipment inspected during the shutdown window."
+          },
+          {
+            "t": "NDT & weld checks",
+            "d": "UT, RT, MPI and PT, plus welding and fabrication verification."
+          },
+          {
+            "t": "Post-shutdown reporting",
+            "d": "Inspection reports and documentation for records and future planning."
+          }
+        ]
+      },
+      {
+        "kind": "grid",
+        "eyebrow": "EQUIPMENT",
+        "heading": "What we inspect",
+        "items": [
+          {
+            "t": "Pressure vessels"
+          },
+          {
+            "t": "Piping systems"
+          },
+          {
+            "t": "Storage tanks"
+          },
+          {
+            "t": "Heat exchangers"
+          },
+          {
+            "t": "Boilers"
+          },
+          {
+            "t": "Rotating machinery"
+          },
+          {
+            "t": "Structural components"
+          },
+          {
+            "t": "Electrical systems"
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "tone": "ink",
+        "eyebrow": "SCOPE",
+        "heading": "Full integrity support",
+        "items": [
+          {
+            "t": "Non-destructive testing",
+            "d": "Ultrasonic, radiographic, magnetic particle, dye penetrant and modern NDT techniques."
+          },
+          {
+            "t": "Welding & fabrication inspection",
+            "d": "Welding procedures, welder qualifications and weld quality verified."
+          },
+          {
+            "t": "Regulatory compliance verification",
+            "d": "Work checked against safety regulations, codes and project specifications."
+          },
+          {
+            "t": "Documentation",
+            "d": "Technical records that support compliance and maintenance planning."
+          }
+        ]
+      }
+    ],
+    "relatedLabel": "MORE INSPECTION SERVICES",
+    "related": [
+      {
+        "t": "QA/QC Project Management",
+        "href": "/inspection/qa-qc-project-management"
+      },
+      {
+        "t": "Third Party Inspection",
+        "href": "/inspection/third-party-inspection"
+      },
+      {
+        "t": "Advanced NDT",
+        "href": "/ndt/advanced-ndt-services"
+      }
+    ],
+    "ctaTitle": "Shutdown on the calendar? Book inspectors now.",
+    "path": "/inspection/asset-integrity"
+  },
+  {
+    "pillarKey": "insp",
+    "pillar": "Inspection",
+    "pillarHref": "/inspection",
+    "crumb": "QA/QC Project Management",
+    "tag": "INSPECTION",
+    "code": "INSP-02",
+    "title": "QA/QC project management",
+    "intro": "Quality assurance that prevents defects, and quality control that catches them — managed from planning through to project completion.",
+    "img": "/images/qaqc.jpg",
+    "imgAlt": "QA/QC engineer reviewing drawings and inspection test plans",
+    "cta": "Discuss your project",
+    "facts": [
+      {
+        "k": "QA",
+        "v": "PREVENT"
+      },
+      {
+        "k": "QC",
+        "v": "INSPECT & TEST"
+      },
+      {
+        "k": "DOCUMENTS",
+        "v": "AUDIT-READY"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "WHAT WE DELIVER",
+        "heading": "Three disciplines",
+        "items": [
+          {
+            "t": "QA/QC plans",
+            "d": "Procedures, responsibilities, inspection stages and acceptance criteria defined up front, so all work meets specifications, codes and client requirements."
+          },
+          {
+            "t": "Total document control",
+            "d": "Project documentation that is organised, accurate, secure, traceable and ready for audits or regulatory reviews."
+          },
+          {
+            "t": "Technical procedures",
+            "d": "Clear work procedures that improve consistency, safety and compliance across construction and engineering activities."
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "tone": "ink",
+        "eyebrow": "DOCUMENT CONTROL",
+        "heading": "End-to-end document control",
+        "body": "Structured classification, controlled distribution and secure storage, with clear workflows for review, approval and updates.",
+        "items": [
+          {
+            "t": "Classification & indexing",
+            "d": "In line with project and industry standards."
+          },
+          {
+            "t": "Version control",
+            "d": "Revision tracking keeps the latest approved documents in use."
+          },
+          {
+            "t": "Access control & audit trails",
+            "d": "Only authorised personnel can view or modify documents."
+          },
+          {
+            "t": "Workflow & approval tracking",
+            "d": "A clear, structured documentation process."
+          }
+        ]
+      },
+      {
+        "kind": "steps",
+        "eyebrow": "APPROACH",
+        "heading": "Quality, start to finish",
+        "items": [
+          {
+            "t": "Plan",
+            "d": "QA/QC plan and inspection test plans agreed."
+          },
+          {
+            "t": "Control",
+            "d": "Inspections and tests during execution."
+          },
+          {
+            "t": "Record",
+            "d": "Controlled, traceable documentation."
+          },
+          {
+            "t": "Close out",
+            "d": "Handover dossiers ready for audit."
+          }
+        ]
+      }
+    ],
+    "relatedLabel": "MORE INSPECTION SERVICES",
+    "related": [
+      {
+        "t": "Asset Integrity",
+        "href": "/inspection/asset-integrity"
+      },
+      {
+        "t": "Third Party Inspection",
+        "href": "/inspection/third-party-inspection"
+      },
+      {
+        "t": "Welding",
+        "href": "/welding"
+      }
+    ],
+    "ctaTitle": "Put a QA/QC team on your next project.",
+    "path": "/inspection/qa-qc-project-management"
+  },
+  {
+    "pillarKey": "insp",
+    "pillar": "Inspection",
+    "pillarHref": "/inspection",
+    "crumb": "Third Party Inspection",
+    "tag": "INSPECTION",
+    "code": "INSP-03",
+    "title": "Third party inspection",
+    "intro": "Independent inspection and expediting to local regulations and international standards — with clear, accurate and impartial reports that reduce your operational risk.",
+    "img": "/images/tpi.jpg",
+    "imgAlt": "Inspector checking a hydrotest gauge on a pressure vessel",
+    "cta": "Book an inspector",
+    "facts": [
+      {
+        "k": "INDEPENDENCE",
+        "v": "IMPARTIAL"
+      },
+      {
+        "k": "SCOPE",
+        "v": "INSPECT + EXPEDITE"
+      },
+      {
+        "k": "INDUSTRIES",
+        "v": "O&G · MARINE · INFRA"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "list",
+        "eyebrow": "PRESSURE VESSELS & PIPING",
+        "heading": "Pressure equipment",
+        "items": [
+          "Material verification and mill certificate review",
+          "Welding inspection and welder qualification validation",
+          "Witnessing and verification of NDT procedures",
+          "Hydrostatic pressure testing",
+          "Compliance with industry standards and project specifications"
+        ]
+      },
+      {
+        "kind": "list",
+        "tone": "ink",
+        "eyebrow": "LIFTING EQUIPMENT",
+        "heading": "Cranes, slings & lifting gear",
+        "body": "Third-party inspection of cranes, trucks, forklifts, lifting equipment, slings, harnesses, scaffolding, machinery and tools.",
+        "items": [
+          "Visual inspection of cranes, hooks, slings, gears and platforms",
+          "Witnessing proof load tests to confirm safe lifting capacity",
+          "NDT to evaluate structural integrity and detect defects"
+        ]
+      },
+      {
+        "kind": "grid",
+        "eyebrow": "STRUCTURAL STEELWORK",
+        "heading": "Every stage of steel",
+        "body": "Inspection across fabrication and installation for construction, infrastructure, marine and oil & gas projects.",
+        "items": [
+          {
+            "t": "Document review",
+            "d": "Drawings, procedures and material certificates checked before work starts."
+          },
+          {
+            "t": "Fabrication",
+            "d": "Dimensional, fit-up and weld inspection in the shop."
+          },
+          {
+            "t": "Coating",
+            "d": "Surface preparation and coating checks."
+          },
+          {
+            "t": "Installation",
+            "d": "Erection, bolting and alignment verified on site."
+          }
+        ]
+      }
+    ],
+    "relatedLabel": "MORE INSPECTION SERVICES",
+    "related": [
+      {
+        "t": "Asset Integrity",
+        "href": "/inspection/asset-integrity"
+      },
+      {
+        "t": "QA/QC Project Management",
+        "href": "/inspection/qa-qc-project-management"
+      },
+      {
+        "t": "Rigger Training",
+        "href": "/training/rigger"
+      }
+    ],
+    "ctaTitle": "Need an independent inspector on site?",
+    "path": "/inspection/third-party-inspection"
+  },
+  {
+    "pillarKey": "weld",
+    "pillar": "",
+    "pillarHref": "",
+    "crumb": "Welding",
+    "tag": "DISCIPLINE 02",
+    "code": "WELD",
+    "title": "Welding services & consultancy",
+    "intro": "Certified welding inspectors and specialists supporting industrial, commercial and government projects — from WPS development to on-site technical guidance.",
+    "img": "/images/welding.jpg",
+    "imgAlt": "Welder TIG welding a pipe while an inspector observes",
+    "cta": "Talk to a welding inspector",
+    "facts": [
+      {
+        "k": "TEAM",
+        "v": "CERTIFIED CWI"
+      },
+      {
+        "k": "STANDARDS",
+        "v": "AWS · ASME"
+      },
+      {
+        "k": "SECTORS",
+        "v": "O&G · MARINE · ENERGY"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "SERVICES",
+        "heading": "Complete welding support",
+        "items": [
+          {
+            "t": "WPS / PQR development",
+            "d": "Welding procedure specifications and qualification records written and qualified to code."
+          },
+          {
+            "t": "Welder qualification",
+            "d": "Welder performance testing and certification."
+          },
+          {
+            "t": "Welding inspection",
+            "d": "Inspection across a wide range of welding methods and processes."
+          },
+          {
+            "t": "Third-party audits",
+            "d": "Independent audits of fabricators and welding shops."
+          },
+          {
+            "t": "On-site technical guidance",
+            "d": "Specialists on site to resolve welding problems quickly."
+          },
+          {
+            "t": "Consultancy",
+            "d": "Expert advice for complex project environments."
+          }
+        ]
+      },
+      {
+        "kind": "chips",
+        "tone": "ink",
+        "eyebrow": "SECTORS",
+        "heading": "Where we weld & inspect",
+        "body": "Supporting large-scale infrastructure and industrial projects across the Kingdom.",
+        "items": [
+          "Oil & gas",
+          "Marine",
+          "Energy",
+          "Construction",
+          "Petrochemical",
+          "Infrastructure"
+        ]
+      },
+      {
+        "kind": "steps",
+        "eyebrow": "HOW WE WORK",
+        "heading": "Weld quality, assured",
+        "items": [
+          {
+            "t": "Procedure",
+            "d": "WPS and PQR prepared and approved."
+          },
+          {
+            "t": "Qualify",
+            "d": "Welders tested and certified."
+          },
+          {
+            "t": "Inspect",
+            "d": "Visual and NDT inspection during fabrication."
+          },
+          {
+            "t": "Document",
+            "d": "Weld maps and reports for handover."
+          }
+        ]
+      }
+    ],
+    "relatedLabel": "RELATED",
+    "related": [
+      {
+        "t": "Welding Inspection Courses",
+        "href": "/training/welding-inspection-courses"
+      },
+      {
+        "t": "Welding Electrodes",
+        "href": "/manufacturing/welding-electrodes"
+      },
+      {
+        "t": "NDT",
+        "href": "/ndt"
+      }
+    ],
+    "ctaTitle": "Get your welds right first time.",
+    "path": "/welding"
+  },
+  {
+    "pillarKey": "civil",
+    "pillar": "",
+    "pillarHref": "",
+    "crumb": "Civil / Structural / Geo",
+    "tag": "DISCIPLINE 04",
+    "code": "CSG",
+    "title": "Civil, structural & geotechnical",
+    "intro": "Engineering design, supervision and periodic inspection for infrastructure, buildings and industrial structures — from ground investigation to façade and rooftop solar assessments.",
+    "img": "/images/civil.jpg",
+    "imgAlt": "Engineer examining soil cores beside a geotechnical drilling rig",
+    "cta": "Request engineering support",
+    "facts": [
+      {
+        "k": "DESIGN",
+        "v": "INFRA · STRUCT · GEO"
+      },
+      {
+        "k": "SITE",
+        "v": "SUPERVISION"
+      },
+      {
+        "k": "APPROVALS",
+        "v": "AUTHORITY SUBMISSIONS"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "DESIGN",
+        "heading": "Engineering design",
+        "items": [
+          {
+            "t": "Infrastructure systems design",
+            "d": "Roads, drainage and utility infrastructure."
+          },
+          {
+            "t": "Structural analysis & design",
+            "d": "Concrete and steel structures, new build and modification."
+          },
+          {
+            "t": "Geotechnical design works",
+            "d": "Foundations and ground engineering."
+          },
+          {
+            "t": "ERSS / framework design",
+            "d": "Earth retaining and stabilising structures."
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "tone": "ink",
+        "eyebrow": "SUPERVISION & COMPLIANCE",
+        "heading": "On site and with authorities",
+        "items": [
+          {
+            "t": "Site supervision",
+            "d": "Qualified engineers supervising construction on your behalf."
+          },
+          {
+            "t": "Design for Safety Professional (DfSP) services",
+            "d": "Safety considered from the design stage."
+          },
+          {
+            "t": "Authorities submission",
+            "d": "Drawings and documentation prepared and submitted for approval."
+          }
+        ]
+      },
+      {
+        "kind": "grid",
+        "eyebrow": "INSPECTION",
+        "heading": "Periodic assessments",
+        "items": [
+          {
+            "t": "Periodic structural inspection",
+            "d": "Regular condition surveys of existing structures."
+          },
+          {
+            "t": "Façade inspection",
+            "d": "Building envelope condition and safety checks."
+          },
+          {
+            "t": "Solar panel roof assessment",
+            "d": "Roof condition assessment before or after PV installation."
+          }
+        ]
+      }
+    ],
+    "relatedLabel": "RELATED",
+    "related": [
+      {
+        "t": "Third Party Inspection",
+        "href": "/inspection/third-party-inspection"
+      },
+      {
+        "t": "RE/RTO Renewal Course",
+        "href": "/training/re-rto-renewal-stu"
+      },
+      {
+        "t": "Rope Access",
+        "href": "/ndt/rope-access"
+      }
+    ],
+    "ctaTitle": "Bring engineers in early.",
+    "path": "/civil-structural-geo"
+  },
+  {
+    "pillarKey": "ndt",
+    "pillar": "NDT",
+    "pillarHref": "/ndt",
+    "crumb": "Radiographic Testing",
+    "tag": "NDT · METHOD 02.2",
+    "code": "RT",
+    "title": "Radiographic testing",
+    "intro": "X-ray and gamma imaging of welds, castings and critical components to reveal internal defects — without damaging the material.",
+    "img": "/images/rt-radiograph.jpg",
+    "imgAlt": "Inspector reviewing a weld radiograph on a lightbox",
+    "cta": "Request RT",
+    "facts": [
+      {
+        "k": "SOURCES",
+        "v": "X-RAY · GAMMA"
+      },
+      {
+        "k": "IMAGING",
+        "v": "FILM · DIGITAL · RTR"
+      },
+      {
+        "k": "RECORD",
+        "v": "PERMANENT"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "TECHNIQUES",
+        "heading": "Film, digital or real-time",
+        "body": "We match the technique to your documentation, volume and reporting needs.",
+        "items": [
+          {
+            "t": "Film radiography",
+            "d": "A physical film that serves as a permanent record — ideal where long-term archival is required."
+          },
+          {
+            "t": "Digital radiography",
+            "d": "Faster processing, easier storage and analysis. Suited to high volumes, rapid reporting and remote review."
+          },
+          {
+            "t": "Real-time radiography",
+            "d": "Images viewed instantly as they are captured, for immediate evaluation of potential defects."
+          }
+        ]
+      },
+      {
+        "kind": "grid",
+        "tone": "ink",
+        "eyebrow": "SOURCE",
+        "heading": "Gamma ray vs X-ray",
+        "items": [
+          {
+            "t": "Gamma ray testing",
+            "d": "Portable isotope sources for field work, thick sections and locations without power."
+          },
+          {
+            "t": "X-ray testing",
+            "d": "Adjustable energy and high image quality for shop and controlled environments."
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "eyebrow": "APPLICATIONS",
+        "heading": "Where RT is critical",
+        "items": [
+          "Oil and gas pipelines and piping systems",
+          "Structural fabrication",
+          "Pressure vessel manufacturing",
+          "Castings and critical components",
+          "Areas where hidden defects could compromise safety"
+        ]
+      }
+    ],
+    "relatedLabel": "OTHER NDT METHODS",
+    "related": [
+      {
+        "t": "Ultrasonic Testing",
+        "href": "/ndt/ultrasonic-testing"
+      },
+      {
+        "t": "Advanced NDT",
+        "href": "/ndt/advanced-ndt-services"
+      },
+      {
+        "t": "Magnetic Particle",
+        "href": "/ndt/magnetic-particle-testing"
+      }
+    ],
+    "ctaTitle": "Schedule radiography for your welds.",
+    "path": "/ndt/radiographic-testing"
+  },
+  {
+    "pillarKey": "ndt",
+    "pillar": "NDT",
+    "pillarHref": "/ndt",
+    "crumb": "Magnetic Particle Testing",
+    "tag": "NDT · METHOD 02.3",
+    "code": "MT / MPI",
+    "title": "Magnetic particle testing",
+    "intro": "One of the fastest, most cost-effective ways to find surface and near-surface cracks in ferromagnetic materials — performed by certified Level II and III technicians.",
+    "img": "/images/mpt.jpg",
+    "imgAlt": "Magnetic yoke on a weld showing a particle crack indication",
+    "cta": "Request MPI",
+    "facts": [
+      {
+        "k": "DETECTS",
+        "v": "SURFACE CRACKS"
+      },
+      {
+        "k": "MATERIALS",
+        "v": "FERROMAGNETIC"
+      },
+      {
+        "k": "PERSONNEL",
+        "v": "LEVEL II / III"
+      },
+      {
+        "k": "STANDARDS",
+        "v": "ASME V · ISO 9934"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "steps",
+        "eyebrow": "THE PROCESS",
+        "heading": "How MPI works",
+        "body": "A crack disturbs the magnetic field, so particles gather at the defect and form a visible indication.",
+        "items": [
+          {
+            "t": "Prepare",
+            "d": "Clean the test area of dirt, oil and contaminants."
+          },
+          {
+            "t": "Magnetise",
+            "d": "Apply a magnetic field to the component."
+          },
+          {
+            "t": "Apply particles",
+            "d": "Dry powder or wet suspension reveals discontinuities."
+          },
+          {
+            "t": "Inspect & clean",
+            "d": "View under proper lighting, then demagnetise and clean."
+          }
+        ]
+      },
+      {
+        "kind": "grid",
+        "tone": "ink",
+        "eyebrow": "EQUIPMENT",
+        "heading": "Kit we bring",
+        "items": [
+          {
+            "t": "Portable yokes",
+            "d": "For on-site inspections."
+          },
+          {
+            "t": "Bench units",
+            "d": "For higher-volume shop work."
+          },
+          {
+            "t": "UV lamps",
+            "d": "For fluorescent testing."
+          },
+          {
+            "t": "Wet & dry media",
+            "d": "Magnetic powders and liquids."
+          }
+        ]
+      },
+      {
+        "kind": "chips",
+        "eyebrow": "STANDARDS & INDUSTRIES",
+        "heading": "Certified & compliant",
+        "body": "Carried out by ISO 9712, ASNT or PCN certified technicians, for oil and gas, marine, structural steel, power generation, rail and automotive.",
+        "items": [
+          "ASTM E444",
+          "ASME Section V",
+          "ISO 9934",
+          "ISO 9712",
+          "ASNT",
+          "PCN"
+        ]
+      }
+    ],
+    "relatedLabel": "OTHER NDT METHODS",
+    "related": [
+      {
+        "t": "Penetrant Testing",
+        "href": "/ndt/penetrant-testing"
+      },
+      {
+        "t": "Ultrasonic Testing",
+        "href": "/ndt/ultrasonic-testing"
+      },
+      {
+        "t": "Hardness Test",
+        "href": "/ndt/hardness-test"
+      }
+    ],
+    "ctaTitle": "Find the cracks before they grow.",
+    "path": "/ndt/magnetic-particle-testing"
+  },
+  {
+    "pillarKey": "ndt",
+    "pillar": "NDT",
+    "pillarHref": "/ndt",
+    "crumb": "Positive Material Identification",
+    "tag": "NDT · METHOD 02.5",
+    "code": "PMI",
+    "title": "Positive material identification",
+    "intro": "On-site alloy verification with handheld and mobile analysers — confirming that the right material went into the right place, before it becomes a failure.",
+    "img": "/images/pmi.jpg",
+    "imgAlt": "Handheld XRF analyser verifying a stainless steel valve",
+    "cta": "Request PMI",
+    "facts": [
+      {
+        "k": "VERIFIES",
+        "v": "ALLOY GRADE"
+      },
+      {
+        "k": "WHERE",
+        "v": "ONSITE"
+      },
+      {
+        "k": "STANDARD",
+        "v": "ASTM"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "list",
+        "eyebrow": "BENEFITS",
+        "heading": "Why PMI matters",
+        "body": "PMI helps you meet project specifications and improves asset traceability across oil and gas, marine, petrochemical and fabrication.",
+        "items": [
+          "Early detection of alloy mismatches",
+          "Compliance with regulatory and client specifications",
+          "Better record keeping for QA/QC documentation",
+          "Support during shutdown and plant maintenance"
+        ]
+      },
+      {
+        "kind": "grid",
+        "tone": "ink",
+        "eyebrow": "WHEN IT IS REQUIRED",
+        "heading": "Typical triggers",
+        "items": [
+          {
+            "t": "Multiple suppliers",
+            "d": "Materials sourced from several vendors."
+          },
+          {
+            "t": "Missing certificates",
+            "d": "No certification available for components."
+          },
+          {
+            "t": "Code-critical parts",
+            "d": "Weld overlays, valves and pressure-containing parts."
+          },
+          {
+            "t": "Shutdowns",
+            "d": "Inspection during plant maintenance."
+          }
+        ]
+      },
+      {
+        "kind": "chips",
+        "eyebrow": "METHODS",
+        "heading": "Techniques",
+        "items": [
+          "Handheld XRF",
+          "Mobile analysers",
+          "X-ray diffraction (XRD)",
+          "ASTM-aligned procedures"
+        ]
+      }
+    ],
+    "relatedLabel": "OTHER NDT METHODS",
+    "related": [
+      {
+        "t": "Hardness Test",
+        "href": "/ndt/hardness-test"
+      },
+      {
+        "t": "Asset Integrity",
+        "href": "/inspection/asset-integrity"
+      },
+      {
+        "t": "Ultrasonic Testing",
+        "href": "/ndt/ultrasonic-testing"
+      }
+    ],
+    "ctaTitle": "Verify your alloys on site.",
+    "path": "/ndt/positive-material-identification"
+  },
+  {
+    "pillarKey": "ndt",
+    "pillar": "NDT",
+    "pillarHref": "/ndt",
+    "crumb": "Penetrant Testing",
+    "tag": "NDT · METHOD 02.4",
+    "code": "PT",
+    "title": "Penetrant testing",
+    "intro": "Dye penetrant inspection that reveals fine surface-breaking cracks, porosity and laps that a standard visual inspection would miss.",
+    "img": "/images/pt.jpg",
+    "imgAlt": "Red dye penetrant crack indication on white developer",
+    "cta": "Request PT",
+    "facts": [
+      {
+        "k": "DETECTS",
+        "v": "SURFACE FLAWS"
+      },
+      {
+        "k": "MATERIALS",
+        "v": "NON-POROUS"
+      },
+      {
+        "k": "DYE",
+        "v": "VISIBLE · FLUORESCENT"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "steps",
+        "eyebrow": "HOW IT WORKS",
+        "heading": "Capillary action, made visible",
+        "body": "Penetrant seeps into surface defects, then a developer draws it back out to form a clear indication.",
+        "items": [
+          {
+            "t": "Clean",
+            "d": "Surface cleaned and dried."
+          },
+          {
+            "t": "Apply penetrant",
+            "d": "Visible or fluorescent dye applied, with sufficient dwell time."
+          },
+          {
+            "t": "Remove excess",
+            "d": "Surplus penetrant carefully removed."
+          },
+          {
+            "t": "Develop & inspect",
+            "d": "Developer reveals indications for evaluation."
+          }
+        ]
+      },
+      {
+        "kind": "grid",
+        "tone": "ink",
+        "eyebrow": "WHAT IT FINDS",
+        "heading": "Typical indications",
+        "items": [
+          {
+            "t": "Cracks",
+            "d": "Fatigue, grinding and stress cracks."
+          },
+          {
+            "t": "Porosity",
+            "d": "Surface-breaking gas pores."
+          },
+          {
+            "t": "Laps & seams",
+            "d": "Forming and forging discontinuities."
+          },
+          {
+            "t": "Leaks",
+            "d": "Through-wall paths in thin sections."
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "eyebrow": "APPLICATIONS",
+        "heading": "Where we use PT",
+        "items": [
+          "Welds on stainless steel and non-ferrous alloys",
+          "Castings and forgings",
+          "Machined components",
+          "Maintenance inspection during shutdowns"
+        ]
+      }
+    ],
+    "relatedLabel": "OTHER NDT METHODS",
+    "related": [
+      {
+        "t": "Magnetic Particle",
+        "href": "/ndt/magnetic-particle-testing"
+      },
+      {
+        "t": "Ultrasonic Testing",
+        "href": "/ndt/ultrasonic-testing"
+      },
+      {
+        "t": "Positive Material ID",
+        "href": "/ndt/positive-material-identification"
+      }
+    ],
+    "ctaTitle": "Reveal the cracks you cannot see.",
+    "path": "/ndt/penetrant-testing"
+  },
+  {
+    "pillarKey": "ndt",
+    "pillar": "NDT",
+    "pillarHref": "/ndt",
+    "crumb": "Hardness Test",
+    "tag": "NDT · METHOD 02.6",
+    "code": "HT",
+    "title": "Hardness testing",
+    "intro": "Precise hardness measurement for quality assurance, welding inspection and post-heat-treatment evaluation — confirming metals meet the mechanical properties your design depends on.",
+    "img": "/images/hardness.jpg",
+    "imgAlt": "Portable hardness tester on a weld cap",
+    "cta": "Request hardness testing",
+    "facts": [
+      {
+        "k": "METHODS",
+        "v": "BHN · HR · HV"
+      },
+      {
+        "k": "STANDARDS",
+        "v": "ISO · ASTM"
+      },
+      {
+        "k": "USE",
+        "v": "WELDS · HAZ · PWHT"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "METHODS",
+        "heading": "Choosing the right test",
+        "body": "Our NDT specialists select the method based on material type, application and sample characteristics.",
+        "items": [
+          {
+            "t": "Brinell (BHN)",
+            "d": "Steel or tungsten carbide ball for castings and coarse-grained metals; a large indentation shows integrity over a broad area."
+          },
+          {
+            "t": "Rockwell (HR)",
+            "d": "Fast, direct-read results across scales — ideal for alloys and processed materials."
+          },
+          {
+            "t": "Vickers (HV)",
+            "d": "Diamond indenter for precise microhardness on thin sections, coatings and small components."
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "tone": "ink",
+        "eyebrow": "WHY IT MATTERS",
+        "heading": "What hardness tells you",
+        "items": [
+          "Resistance to deformation and wear",
+          "Effect of heat treatment and processing",
+          "Weld and heat-affected zone acceptability",
+          "Suitability for welding, fabrication and structural use"
+        ]
+      }
+    ],
+    "relatedLabel": "OTHER NDT METHODS",
+    "related": [
+      {
+        "t": "Positive Material ID",
+        "href": "/ndt/positive-material-identification"
+      },
+      {
+        "t": "Welding",
+        "href": "/welding"
+      },
+      {
+        "t": "Magnetic Particle",
+        "href": "/ndt/magnetic-particle-testing"
+      }
+    ],
+    "ctaTitle": "Confirm your material properties.",
+    "path": "/ndt/hardness-test"
+  },
+  {
+    "pillarKey": "ndt",
+    "pillar": "NDT",
+    "pillarHref": "/ndt",
+    "crumb": "Rope Access",
+    "tag": "NDT · METHOD 02.7",
+    "code": "RA",
+    "title": "Rope access",
+    "intro": "Inspection, maintenance, coating and cleaning at height — without scaffolding or heavy lifting equipment, so jobs finish faster and cost less.",
+    "img": "/images/rope-chimney.jpg",
+    "imgAlt": "Rope access technicians descending an industrial chimney",
+    "cta": "Plan rope access work",
+    "facts": [
+      {
+        "k": "SETUP",
+        "v": "HOURS, NOT DAYS"
+      },
+      {
+        "k": "FOOTPRINT",
+        "v": "MINIMAL"
+      },
+      {
+        "k": "SCOPE",
+        "v": "NDT + MAINTENANCE"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "WHY ROPE ACCESS",
+        "heading": "Better than scaffolding",
+        "body": "Scaffolding can take days to erect and dismantle. Rope access reaches the same areas safely in a fraction of the time.",
+        "items": [
+          {
+            "t": "Faster setup",
+            "d": "Quick rigging and dismantling."
+          },
+          {
+            "t": "Lower cost",
+            "d": "Less disruption to operations."
+          },
+          {
+            "t": "Minimal footprint",
+            "d": "No ground obstruction."
+          },
+          {
+            "t": "Better reach",
+            "d": "Confined and congested spaces."
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "tone": "ink",
+        "eyebrow": "ONE VISIT",
+        "heading": "Access plus the work",
+        "body": "Our technicians combine access with NDT, coating, surface preparation and insulation removal — complete service in one mobilisation.",
+        "items": [
+          "Tank and vessel inspections",
+          "Plant shutdown support",
+          "High-rise structural inspection",
+          "Hull thickness gauging",
+          "Coating and surface preparation",
+          "Insulation removal and reinstatement"
+        ]
+      }
+    ],
+    "relatedLabel": "RELATED",
+    "related": [
+      {
+        "t": "Ultrasonic Testing",
+        "href": "/ndt/ultrasonic-testing"
+      },
+      {
+        "t": "Work at Height Training",
+        "href": "/training/work-at-height"
+      },
+      {
+        "t": "Asset Integrity",
+        "href": "/inspection/asset-integrity"
+      }
+    ],
+    "ctaTitle": "Reach it without the scaffold.",
+    "path": "/ndt/rope-access"
+  },
+  {
+    "pillarKey": "ndt",
+    "pillar": "NDT",
+    "pillarHref": "/ndt",
+    "crumb": "Advanced NDT Services",
+    "tag": "NDT · METHOD 02.8",
+    "code": "PAUT · TOFD · AUT",
+    "title": "Advanced NDT services",
+    "intro": "High-precision inspection for high-risk, highly regulated industries — richer data, greater accuracy and permanent digital records that extend the life of critical assets.",
+    "img": "/images/paut.jpg",
+    "imgAlt": "Phased array scanner on a pipe girth weld with sectorial scan on a laptop",
+    "cta": "Discuss an advanced inspection",
+    "facts": [
+      {
+        "k": "DATA",
+        "v": "DIGITAL RECORD"
+      },
+      {
+        "k": "COVERAGE",
+        "v": "LARGE AREAS"
+      },
+      {
+        "k": "SIZING",
+        "v": "HIGH ACCURACY"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "list",
+        "eyebrow": "BEYOND CONVENTIONAL",
+        "heading": "Why go advanced",
+        "body": "Conventional methods rely heavily on operator interpretation. Advanced techniques use phased arrays, sensors and automation to go further.",
+        "items": [
+          "Detect flaws deep within complex geometries",
+          "Map corrosion and thickness loss over large surfaces",
+          "Produce permanent digital records for traceability",
+          "Enable real-time data visuals and remote assessment"
+        ]
+      },
+      {
+        "kind": "grid",
+        "tone": "ink",
+        "eyebrow": "CORE SERVICES",
+        "heading": "Our advanced techniques",
+        "items": [
+          {
+            "t": "Advanced UT (AUT)",
+            "d": "Automated probes and scanners for consistent, detailed data on welds, pipe walls and structures."
+          },
+          {
+            "t": "Phased array (PAUT)",
+            "d": "Multi-angle scans for thick sections, curved surfaces and time-sensitive inspections."
+          },
+          {
+            "t": "TOFD",
+            "d": "Sound-wave timing to measure crack depth and growth in pressure vessels and long seams."
+          },
+          {
+            "t": "Acoustic emission",
+            "d": "Detects active flaws as they occur in components under stress."
+          },
+          {
+            "t": "Vacuum box testing",
+            "d": "Quick, effective leak detection on tank floors and welded seams."
+          }
+        ]
+      },
+      {
+        "kind": "chips",
+        "eyebrow": "WHERE IT MATTERS",
+        "heading": "Critical assets",
+        "items": [
+          "Pressure vessels",
+          "Pipework corrosion",
+          "Fatigue cracks",
+          "Long seam welds",
+          "Storage tank floors",
+          "Thick-wall welds"
+        ]
+      }
+    ],
+    "relatedLabel": "OTHER NDT METHODS",
+    "related": [
+      {
+        "t": "Ultrasonic Testing",
+        "href": "/ndt/ultrasonic-testing"
+      },
+      {
+        "t": "Radiographic Testing",
+        "href": "/ndt/radiographic-testing"
+      },
+      {
+        "t": "Asset Integrity",
+        "href": "/inspection/asset-integrity"
+      }
+    ],
+    "ctaTitle": "Get more data from every inspection.",
+    "path": "/ndt/advanced-ndt-services"
+  },
+  {
+    "pillarKey": "train",
+    "pillar": "Training",
+    "pillarHref": "/training",
+    "crumb": "Safety Orientation & Induction",
+    "tag": "TRAINING · SAFETY",
+    "code": "TR-01",
+    "title": "Safety orientation & induction",
+    "intro": "Essential workplace safety knowledge for employees, contractors and site personnel — so everyone understands the hazards, the procedures and their own responsibilities from day one.",
+    "img": "/images/tr-induction.jpg",
+    "imgAlt": "New workers receiving a site safety induction at a plant gate",
+    "cta": "Book an induction",
+    "facts": [
+      {
+        "k": "FORMAT",
+        "v": "CLASSROOM + SITE"
+      },
+      {
+        "k": "DURATION",
+        "v": "[X] HOURS"
+      },
+      {
+        "k": "LANGUAGE",
+        "v": "EN · AR"
+      },
+      {
+        "k": "OUTPUT",
+        "v": "CERTIFICATE"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "list",
+        "eyebrow": "WHAT YOU LEARN",
+        "heading": "Course content",
+        "items": [
+          "Workplace hazards and risk awareness",
+          "Emergency response procedures",
+          "Personal protective equipment (PPE)",
+          "Safe work practices and site rules",
+          "Reporting incidents and near misses",
+          "Individual safety responsibilities"
+        ]
+      },
+      {
+        "kind": "grid",
+        "tone": "ink",
+        "eyebrow": "WHO SHOULD ATTEND",
+        "heading": "Built for every newcomer",
+        "body": "Tailored to your site conditions, job roles and industry requirements.",
+        "items": [
+          {
+            "t": "New employees",
+            "d": "Before first entry to site."
+          },
+          {
+            "t": "Contractors",
+            "d": "Subcontract crews and vendors."
+          },
+          {
+            "t": "Site visitors",
+            "d": "Short-form induction for visitors."
+          },
+          {
+            "t": "Returning staff",
+            "d": "Refresher after long absence."
+          }
+        ]
+      }
+    ],
+    "relatedLabel": "NEXT COURSES",
+    "related": [
+      {
+        "t": "Permit Receiver",
+        "href": "/training/permit-receiver"
+      },
+      {
+        "t": "Work at Height",
+        "href": "/training/work-at-height"
+      },
+      {
+        "t": "All courses",
+        "href": "/training"
+      }
+    ],
+    "ctaTitle": "Induct your next crew with us.",
+    "path": "/training/safety-orientation-induction"
+  },
+  {
+    "pillarKey": "train",
+    "pillar": "Training",
+    "pillarHref": "/training",
+    "crumb": "Permit Receiver",
+    "tag": "TRAINING · SAFETY",
+    "code": "TR-02",
+    "title": "Permit receiver training & exam",
+    "intro": "The knowledge and skills to safely receive, understand and comply with work permits in industrial environments — proven through a competency-based examination.",
+    "img": "/images/tr-permit.jpg",
+    "imgAlt": "Supervisor and worker signing a work permit beside a locked-out valve",
+    "cta": "Enrol in this course",
+    "facts": [
+      {
+        "k": "FORMAT",
+        "v": "TRAINING + EXAM"
+      },
+      {
+        "k": "DURATION",
+        "v": "[X] DAYS"
+      },
+      {
+        "k": "LANGUAGE",
+        "v": "EN · AR"
+      },
+      {
+        "k": "VALIDITY",
+        "v": "[X] YEARS"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "list",
+        "eyebrow": "WHAT YOU LEARN",
+        "heading": "Course content",
+        "items": [
+          "Permit-to-work procedures",
+          "Hazard identification and risk assessment",
+          "Isolation requirements",
+          "Safety precautions on the job",
+          "Emergency response protocols",
+          "Verifying permit conditions on site"
+        ]
+      },
+      {
+        "kind": "steps",
+        "tone": "ink",
+        "eyebrow": "ASSESSMENT",
+        "heading": "How you qualify",
+        "items": [
+          {
+            "t": "Learn",
+            "d": "Classroom sessions on permit systems."
+          },
+          {
+            "t": "Practise",
+            "d": "Work through real permit scenarios."
+          },
+          {
+            "t": "Examine",
+            "d": "Competency-based examination."
+          },
+          {
+            "t": "Certify",
+            "d": "Verifiable certificate issued."
+          }
+        ]
+      }
+    ],
+    "relatedLabel": "RELATED COURSES",
+    "related": [
+      {
+        "t": "Safety Officer",
+        "href": "/training/safety-officer"
+      },
+      {
+        "t": "Fire Watcher",
+        "href": "/training/fire-watcher"
+      },
+      {
+        "t": "All courses",
+        "href": "/training"
+      }
+    ],
+    "ctaTitle": "Certify your permit receivers.",
+    "path": "/training/permit-receiver"
+  },
+  {
+    "pillarKey": "train",
+    "pillar": "Training",
+    "pillarHref": "/training",
+    "crumb": "Safety Officer",
+    "tag": "TRAINING · SAFETY",
+    "code": "TR-03",
+    "title": "Safety officer training & exam",
+    "intro": "Develop the skills to identify hazards, implement safety measures and run effective HSE management on industrial and construction sites.",
+    "img": "/images/tr-safetyofficer.jpg",
+    "imgAlt": "HSE safety officer inspecting a construction site with a checklist",
+    "cta": "Enrol in this course",
+    "facts": [
+      {
+        "k": "FORMAT",
+        "v": "TRAINING + EXAM"
+      },
+      {
+        "k": "DURATION",
+        "v": "[X] DAYS"
+      },
+      {
+        "k": "LANGUAGE",
+        "v": "EN · AR"
+      },
+      {
+        "k": "LEVEL",
+        "v": "SUPERVISORY"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "list",
+        "eyebrow": "WHAT YOU LEARN",
+        "heading": "Course content",
+        "items": [
+          "Hazard identification",
+          "Risk assessment",
+          "Incident investigation",
+          "Emergency preparedness",
+          "Safety inspections and audits",
+          "Regulatory compliance"
+        ]
+      },
+      {
+        "kind": "grid",
+        "tone": "ink",
+        "eyebrow": "OUTCOMES",
+        "heading": "After the course you can",
+        "items": [
+          {
+            "t": "Monitor",
+            "d": "Monitor workplace safety day to day."
+          },
+          {
+            "t": "Promote",
+            "d": "Promote safe work practices across crews."
+          },
+          {
+            "t": "Investigate",
+            "d": "Lead incident investigations."
+          },
+          {
+            "t": "Manage",
+            "d": "Support HSE management systems."
+          }
+        ]
+      }
+    ],
+    "relatedLabel": "RELATED COURSES",
+    "related": [
+      {
+        "t": "Permit Receiver",
+        "href": "/training/permit-receiver"
+      },
+      {
+        "t": "Safety Induction",
+        "href": "/training/safety-orientation-induction"
+      },
+      {
+        "t": "All courses",
+        "href": "/training"
+      }
+    ],
+    "ctaTitle": "Develop your next safety officers.",
+    "path": "/training/safety-officer"
+  },
+  {
+    "pillarKey": "train",
+    "pillar": "Training",
+    "pillarHref": "/training",
+    "crumb": "Rigger",
+    "tag": "TRAINING · SAFETY",
+    "code": "TR-04",
+    "title": "Rigger training & exam",
+    "intro": "Practical skills for safe, efficient lifting and rigging operations — from choosing the right gear to giving the signal that moves the load.",
+    "img": "/images/tr-rigger.jpg",
+    "imgAlt": "Riggers attaching slings to a steel beam under a crane hook",
+    "cta": "Enrol in this course",
+    "facts": [
+      {
+        "k": "FORMAT",
+        "v": "PRACTICAL + EXAM"
+      },
+      {
+        "k": "DURATION",
+        "v": "[X] DAYS"
+      },
+      {
+        "k": "LANGUAGE",
+        "v": "EN · AR"
+      },
+      {
+        "k": "LEVEL",
+        "v": "[I / II / III]"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "list",
+        "eyebrow": "WHAT YOU LEARN",
+        "heading": "Course content",
+        "items": [
+          "Rigging equipment selection",
+          "Load calculations",
+          "Sling and hardware inspection",
+          "Lifting techniques",
+          "Hand signals",
+          "Safe load handling and hazard identification"
+        ]
+      },
+      {
+        "kind": "steps",
+        "tone": "ink",
+        "eyebrow": "ASSESSMENT",
+        "heading": "How you qualify",
+        "items": [
+          {
+            "t": "Theory",
+            "d": "Loads, angles and equipment ratings."
+          },
+          {
+            "t": "Practical",
+            "d": "Hands-on rigging in the yard."
+          },
+          {
+            "t": "Examine",
+            "d": "Competency-based assessment."
+          },
+          {
+            "t": "Certify",
+            "d": "Verifiable certificate and card."
+          }
+        ]
+      }
+    ],
+    "relatedLabel": "RELATED",
+    "related": [
+      {
+        "t": "Equipment Operator Safety",
+        "href": "/training/equipment-operator-safety"
+      },
+      {
+        "t": "Third Party Inspection",
+        "href": "/inspection/third-party-inspection"
+      },
+      {
+        "t": "All courses",
+        "href": "/training"
+      }
+    ],
+    "ctaTitle": "Qualify your riggers before the next lift.",
+    "path": "/training/rigger"
+  },
+  {
+    "pillarKey": "train",
+    "pillar": "Training",
+    "pillarHref": "/training",
+    "crumb": "Fire Watcher",
+    "tag": "TRAINING · SAFETY",
+    "code": "TR-05",
+    "title": "Fire watcher training & exam",
+    "intro": "Prevent fires and keep hot work safe — fire watchers learn to spot the risk, monitor the area and respond fast when it matters.",
+    "img": "/images/tr-firewatch.jpg",
+    "imgAlt": "Fire watcher holding an extinguisher beside a welder behind a fire screen",
+    "cta": "Enrol in this course",
+    "facts": [
+      {
+        "k": "FORMAT",
+        "v": "TRAINING + EXAM"
+      },
+      {
+        "k": "DURATION",
+        "v": "[X] DAY"
+      },
+      {
+        "k": "LANGUAGE",
+        "v": "EN · AR"
+      },
+      {
+        "k": "FOCUS",
+        "v": "HOT WORK"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "list",
+        "eyebrow": "WHAT YOU LEARN",
+        "heading": "Course content",
+        "items": [
+          "Fire hazard identification",
+          "Hot work permit requirements",
+          "Fire extinguisher operation",
+          "Emergency response procedures",
+          "Fire prevention measures",
+          "Continuous work area monitoring"
+        ]
+      },
+      {
+        "kind": "grid",
+        "tone": "ink",
+        "eyebrow": "PRACTICAL",
+        "heading": "Hands-on sessions",
+        "items": [
+          {
+            "t": "Live extinguisher drill",
+            "d": "Select and use the right extinguisher."
+          },
+          {
+            "t": "Hot work walk-down",
+            "d": "Spot combustibles and ignition paths."
+          },
+          {
+            "t": "Emergency scenario",
+            "d": "Raise the alarm and respond."
+          }
+        ]
+      }
+    ],
+    "relatedLabel": "RELATED COURSES",
+    "related": [
+      {
+        "t": "Permit Receiver",
+        "href": "/training/permit-receiver"
+      },
+      {
+        "t": "Safety Officer",
+        "href": "/training/safety-officer"
+      },
+      {
+        "t": "All courses",
+        "href": "/training"
+      }
+    ],
+    "ctaTitle": "Keep every hot job covered.",
+    "path": "/training/fire-watcher"
+  },
+  {
+    "pillarKey": "train",
+    "pillar": "Training",
+    "pillarHref": "/training",
+    "crumb": "Flagman / Traffic Marshal",
+    "tag": "TRAINING · SAFETY",
+    "code": "TR-06",
+    "title": "Flagman / traffic marshal",
+    "intro": "Manage vehicle movement safely on industrial and construction sites — guiding traffic, preventing collisions and protecting the people on foot.",
+    "img": "/images/tr-flagman.jpg",
+    "imgAlt": "Flagman with a stop sign directing a dump truck on a desert site road",
+    "cta": "Enrol in this course",
+    "facts": [
+      {
+        "k": "FORMAT",
+        "v": "PRACTICAL"
+      },
+      {
+        "k": "DURATION",
+        "v": "[X] DAY"
+      },
+      {
+        "k": "LANGUAGE",
+        "v": "EN · AR"
+      },
+      {
+        "k": "SETTING",
+        "v": "SITE-SPECIFIC"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "list",
+        "eyebrow": "WHAT YOU LEARN",
+        "heading": "Course content",
+        "items": [
+          "Traffic control procedures",
+          "Standard hand signals",
+          "Vehicle movement coordination",
+          "Hazard identification",
+          "Pedestrian safety",
+          "Emergency response protocols"
+        ]
+      },
+      {
+        "kind": "grid",
+        "tone": "ink",
+        "eyebrow": "OUTCOMES",
+        "heading": "On site you will",
+        "items": [
+          {
+            "t": "Guide",
+            "d": "Guide vehicles safely through work zones."
+          },
+          {
+            "t": "Prevent",
+            "d": "Prevent collisions and reversing incidents."
+          },
+          {
+            "t": "Control",
+            "d": "Manage traffic flow at gates and crossings."
+          },
+          {
+            "t": "Comply",
+            "d": "Follow site procedures and requirements."
+          }
+        ]
+      }
+    ],
+    "relatedLabel": "RELATED COURSES",
+    "related": [
+      {
+        "t": "Equipment Operator Safety",
+        "href": "/training/equipment-operator-safety"
+      },
+      {
+        "t": "Safety Induction",
+        "href": "/training/safety-orientation-induction"
+      },
+      {
+        "t": "All courses",
+        "href": "/training"
+      }
+    ],
+    "ctaTitle": "Train your traffic marshals.",
+    "path": "/training/flagman-traffic-marshal"
+  },
+  {
+    "pillarKey": "train",
+    "pillar": "Training",
+    "pillarHref": "/training",
+    "crumb": "Equipment Operator Safety",
+    "tag": "TRAINING · SAFETY",
+    "code": "TR-07",
+    "title": "Equipment operator safety",
+    "intro": "Operate industrial and construction equipment safely and efficiently — with the inspection habits, load awareness and emergency skills that prevent accidents.",
+    "img": "/images/tr-equipment.jpg",
+    "imgAlt": "Trainee forklift operator with an instructor explaining the controls",
+    "cta": "Enrol in this course",
+    "facts": [
+      {
+        "k": "FORMAT",
+        "v": "PRACTICAL + ASSESSMENT"
+      },
+      {
+        "k": "DURATION",
+        "v": "[X] DAYS"
+      },
+      {
+        "k": "LANGUAGE",
+        "v": "EN · AR"
+      },
+      {
+        "k": "EQUIPMENT",
+        "v": "[FORKLIFT · CRANE · MEWP]"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "list",
+        "eyebrow": "WHAT YOU LEARN",
+        "heading": "Course content",
+        "items": [
+          "Pre-use equipment inspection",
+          "Safe operating procedures",
+          "Hazard identification and risk assessment",
+          "Load handling",
+          "Emergency response",
+          "Personal protective equipment"
+        ]
+      },
+      {
+        "kind": "steps",
+        "tone": "ink",
+        "eyebrow": "ASSESSMENT",
+        "heading": "From seat time to certificate",
+        "items": [
+          {
+            "t": "Brief",
+            "d": "Equipment-specific theory."
+          },
+          {
+            "t": "Demonstrate",
+            "d": "Instructor-led practical."
+          },
+          {
+            "t": "Assess",
+            "d": "Practical safety assessment."
+          },
+          {
+            "t": "Certify",
+            "d": "Operator certificate issued."
+          }
+        ]
+      }
+    ],
+    "relatedLabel": "RELATED COURSES",
+    "related": [
+      {
+        "t": "Rigger",
+        "href": "/training/rigger"
+      },
+      {
+        "t": "Flagman / Traffic Marshal",
+        "href": "/training/flagman-traffic-marshal"
+      },
+      {
+        "t": "All courses",
+        "href": "/training"
+      }
+    ],
+    "ctaTitle": "Put safer operators on your equipment.",
+    "path": "/training/equipment-operator-safety"
+  },
+  {
+    "pillarKey": "train",
+    "pillar": "Training",
+    "pillarHref": "/training",
+    "crumb": "Work at Height",
+    "tag": "TRAINING · SAFETY",
+    "code": "TR-08",
+    "title": "Work at height safety",
+    "intro": "Work safely at elevated locations — fall prevention, correct harness use and rescue procedures for construction, industrial and maintenance crews.",
+    "img": "/images/training-harness.jpg",
+    "imgAlt": "Instructor demonstrating a full-body safety harness to workers",
+    "cta": "Enrol in this course",
+    "facts": [
+      {
+        "k": "FORMAT",
+        "v": "PRACTICAL + ASSESSMENT"
+      },
+      {
+        "k": "DURATION",
+        "v": "[X] DAYS"
+      },
+      {
+        "k": "LANGUAGE",
+        "v": "EN · AR"
+      },
+      {
+        "k": "FOCUS",
+        "v": "FALL PREVENTION"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "list",
+        "eyebrow": "WHAT YOU LEARN",
+        "heading": "Course content",
+        "items": [
+          "Fall hazard identification",
+          "Fall prevention and arrest systems",
+          "Harness inspection and use",
+          "Scaffold safety",
+          "Ladder safety",
+          "Emergency rescue procedures"
+        ]
+      },
+      {
+        "kind": "grid",
+        "tone": "ink",
+        "eyebrow": "PRACTICAL",
+        "heading": "Hands-on at height",
+        "items": [
+          {
+            "t": "Harness fitting",
+            "d": "Inspect, don and adjust a full-body harness."
+          },
+          {
+            "t": "Anchor selection",
+            "d": "Choose and use correct anchor points."
+          },
+          {
+            "t": "Rescue drill",
+            "d": "Respond to a suspended worker scenario."
+          }
+        ]
+      }
+    ],
+    "relatedLabel": "RELATED",
+    "related": [
+      {
+        "t": "Scaffolding",
+        "href": "/training/scaffolding"
+      },
+      {
+        "t": "Rope Access",
+        "href": "/ndt/rope-access"
+      },
+      {
+        "t": "All courses",
+        "href": "/training"
+      }
+    ],
+    "ctaTitle": "Get your crews home safe.",
+    "path": "/training/work-at-height"
+  },
+  {
+    "pillarKey": "train",
+    "pillar": "Training",
+    "pillarHref": "/training",
+    "crumb": "Scaffolding",
+    "tag": "TRAINING · SAFETY",
+    "code": "TR-09",
+    "title": "Scaffolding training & certification",
+    "intro": "Safe scaffold erection, use, inspection and dismantling — for scaffolding helpers, supervisors and inspectors on construction and industrial sites.",
+    "img": "/images/tr-scaffold.jpg",
+    "imgAlt": "Scaffolders erecting a tube-and-coupler scaffold",
+    "cta": "Enrol in this course",
+    "facts": [
+      {
+        "k": "FORMAT",
+        "v": "PRACTICAL + CERT"
+      },
+      {
+        "k": "DURATION",
+        "v": "[X] DAYS"
+      },
+      {
+        "k": "LANGUAGE",
+        "v": "EN · AR"
+      },
+      {
+        "k": "LEVELS",
+        "v": "HELPER → INSPECTOR"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "LEVELS",
+        "heading": "Choose your level",
+        "items": [
+          {
+            "t": "Scaffolding helper",
+            "d": "Components, safe handling and assisting erection."
+          },
+          {
+            "t": "Scaffolding supervisor",
+            "d": "Planning, erection, load limits and crew control."
+          },
+          {
+            "t": "Scaffolding inspector",
+            "d": "Inspection, tagging and sign-off requirements."
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "tone": "ink",
+        "eyebrow": "WHAT YOU LEARN",
+        "heading": "Course content",
+        "items": [
+          "Scaffold components",
+          "Safe erection and dismantling",
+          "Load limits",
+          "Fall protection",
+          "Hazard identification",
+          "Scaffold inspection and tagging"
+        ]
+      }
+    ],
+    "relatedLabel": "RELATED COURSES",
+    "related": [
+      {
+        "t": "Work at Height",
+        "href": "/training/work-at-height"
+      },
+      {
+        "t": "Safety Officer",
+        "href": "/training/safety-officer"
+      },
+      {
+        "t": "All courses",
+        "href": "/training"
+      }
+    ],
+    "ctaTitle": "Certify your scaffolding crews.",
+    "path": "/training/scaffolding"
+  },
+  {
+    "pillarKey": "train",
+    "pillar": "Training",
+    "pillarHref": "/training",
+    "crumb": "Welding Inspection Courses",
+    "tag": "TRAINING · TECHNICAL",
+    "code": "TR-10",
+    "title": "Welding inspection courses",
+    "intro": "Internationally recognised welding inspection training for marine, construction and oil & gas — for newcomers, experienced professionals and candidates preparing for global certification.",
+    "img": "/images/tr-weldinsp.jpg",
+    "imgAlt": "Trainees examining weld test coupons with gauges",
+    "cta": "Enrol in a welding course",
+    "facts": [
+      {
+        "k": "ALIGNED TO",
+        "v": "AWS + GLOBAL"
+      },
+      {
+        "k": "LEVEL",
+        "v": "BEGINNER → ADVANCED"
+      },
+      {
+        "k": "DELIVERY",
+        "v": "SAUDI ARABIA"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "MODULES",
+        "heading": "Training modules",
+        "items": [
+          {
+            "t": "QA/QC training",
+            "d": "Quality systems and documentation for fabrication projects."
+          },
+          {
+            "t": "Visual welding inspection",
+            "d": "Weld discontinuities, gauges and acceptance criteria."
+          },
+          {
+            "t": "Certification preparation",
+            "d": "Structured preparation for global welding certification."
+          }
+        ]
+      },
+      {
+        "kind": "grid",
+        "tone": "ink",
+        "eyebrow": "WHO SHOULD ATTEND",
+        "heading": "Designed for",
+        "items": [
+          {
+            "t": "Beginners",
+            "d": "Entering the welding inspection field."
+          },
+          {
+            "t": "Professionals",
+            "d": "Upgrading existing skills."
+          },
+          {
+            "t": "Candidates",
+            "d": "Preparing for global certification standards."
+          }
+        ]
+      }
+    ],
+    "relatedLabel": "RELATED",
+    "related": [
+      {
+        "t": "Welding services",
+        "href": "/welding"
+      },
+      {
+        "t": "NDT Training",
+        "href": "/training/ndt-training-courses"
+      },
+      {
+        "t": "All courses",
+        "href": "/training"
+      }
+    ],
+    "ctaTitle": "Start your welding inspection career.",
+    "path": "/training/welding-inspection-courses"
+  },
+  {
+    "pillarKey": "train",
+    "pillar": "Training",
+    "pillarHref": "/training",
+    "crumb": "NDT Training Courses",
+    "tag": "TRAINING · TECHNICAL",
+    "code": "TR-11",
+    "title": "NDT training courses",
+    "intro": "Certified NDT training that combines hands-on practice with in-depth technical knowledge — for oil and gas, marine, construction and engineering professionals.",
+    "img": "/images/tr-ndt.jpg",
+    "imgAlt": "NDT trainee practising ultrasonic testing on a calibration block",
+    "cta": "Enrol in NDT training",
+    "facts": [
+      {
+        "k": "METHODS",
+        "v": "UT · RT · MT · PT"
+      },
+      {
+        "k": "LEVELS",
+        "v": "[LEVEL I / II]"
+      },
+      {
+        "k": "FORMAT",
+        "v": "HANDS-ON"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "list",
+        "eyebrow": "OUTCOMES",
+        "heading": "After the course you can",
+        "items": [
+          "Accurately interpret inspection data and test results",
+          "Identify, evaluate and classify defects",
+          "Meet strict standards for inspection, safety and compliance",
+          "Work towards industry-recognised certification"
+        ]
+      },
+      {
+        "kind": "chips",
+        "tone": "ink",
+        "eyebrow": "METHODS COVERED",
+        "heading": "Choose your method",
+        "items": [
+          "Ultrasonic testing",
+          "Radiographic interpretation",
+          "Magnetic particle",
+          "Penetrant testing",
+          "Visual testing",
+          "[Advanced methods]"
+        ]
+      }
+    ],
+    "relatedLabel": "RELATED",
+    "related": [
+      {
+        "t": "NDT services",
+        "href": "/ndt"
+      },
+      {
+        "t": "API Training",
+        "href": "/training/api-training-courses"
+      },
+      {
+        "t": "All courses",
+        "href": "/training"
+      }
+    ],
+    "ctaTitle": "Build your NDT career with us.",
+    "path": "/training/ndt-training-courses"
+  },
+  {
+    "pillarKey": "train",
+    "pillar": "Training",
+    "pillarHref": "/training",
+    "crumb": "API Training Courses",
+    "tag": "TRAINING · TECHNICAL",
+    "code": "TR-12",
+    "title": "API training & certification",
+    "intro": "Internationally recognised API certification preparation for professionals in inspection, maintenance and asset integrity management.",
+    "img": "/images/tr-api.jpg",
+    "imgAlt": "Inspector examining the shell of an aboveground storage tank",
+    "cta": "Enrol in API preparation",
+    "facts": [
+      {
+        "k": "PATHWAYS",
+        "v": "API 510 · 570 · 653"
+      },
+      {
+        "k": "FORMAT",
+        "v": "EXAM PREP"
+      },
+      {
+        "k": "RECOGNITION",
+        "v": "INTERNATIONAL"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "index",
+        "eyebrow": "CERTIFICATION PATHWAYS",
+        "heading": "Choose your pathway",
+        "items": [
+          {
+            "t": "API 510",
+            "d": "Pressure vessel inspection.",
+            "href": "/contact"
+          },
+          {
+            "t": "API 570",
+            "d": "Piping inspection.",
+            "href": "/contact"
+          },
+          {
+            "t": "API 653",
+            "d": "Aboveground storage tank inspection.",
+            "href": "/contact"
+          }
+        ]
+      },
+      {
+        "kind": "chips",
+        "tone": "ink",
+        "eyebrow": "WHERE IT IS VALUED",
+        "heading": "Industries",
+        "body": "API certifications help ensure safety, reliability and regulatory compliance for pressure vessels, pipelines and storage tanks.",
+        "items": [
+          "Oil & gas",
+          "Petrochemicals",
+          "Power generation",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "relatedLabel": "RELATED",
+    "related": [
+      {
+        "t": "Asset Integrity",
+        "href": "/inspection/asset-integrity"
+      },
+      {
+        "t": "NDT Training",
+        "href": "/training/ndt-training-courses"
+      },
+      {
+        "t": "All courses",
+        "href": "/training"
+      }
+    ],
+    "ctaTitle": "Prepare for your API exam.",
+    "path": "/training/api-training-courses"
+  },
+  {
+    "pillarKey": "train",
+    "pillar": "Training",
+    "pillarHref": "/training",
+    "crumb": "RE/RTO Renewal STU",
+    "tag": "TRAINING · PROFESSIONAL",
+    "code": "TR-13",
+    "title": "RE/RTO renewal STU course",
+    "intro": "For practising Resident Engineers and Resident Technical Officers who need to maintain their accreditation — stay current with codes, structural safety and regulations.",
+    "img": "/images/tr-rerto.jpg",
+    "imgAlt": "Resident engineer reviewing structural drawings on a concrete building site",
+    "cta": "Book your renewal",
+    "facts": [
+      {
+        "k": "FOR",
+        "v": "RE · RTO"
+      },
+      {
+        "k": "PURPOSE",
+        "v": "ACCREDITATION RENEWAL"
+      },
+      {
+        "k": "DURATION",
+        "v": "[X] HOURS"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "list",
+        "eyebrow": "COURSE OBJECTIVES",
+        "heading": "By the end you will",
+        "items": [
+          "Refresh structural and safety regulations for construction supervision",
+          "Understand updates in design and construction codes",
+          "Strengthen site safety management, incident prevention and risk control",
+          "Meet the mandatory training requirement for RE/RTO renewal"
+        ]
+      },
+      {
+        "kind": "steps",
+        "tone": "ink",
+        "eyebrow": "PROCESS",
+        "heading": "Renew in four steps",
+        "items": [
+          {
+            "t": "Register",
+            "d": "Confirm your current accreditation details."
+          },
+          {
+            "t": "Attend",
+            "d": "Complete the structured training units."
+          },
+          {
+            "t": "Assess",
+            "d": "Short knowledge check."
+          },
+          {
+            "t": "Renew",
+            "d": "Certificate of attendance issued."
+          }
+        ]
+      }
+    ],
+    "relatedLabel": "RELATED",
+    "related": [
+      {
+        "t": "Civil / Structural / Geo",
+        "href": "/civil-structural-geo"
+      },
+      {
+        "t": "Bespoke Training",
+        "href": "/training/bespoke-training"
+      },
+      {
+        "t": "All courses",
+        "href": "/training"
+      }
+    ],
+    "ctaTitle": "Keep your accreditation current.",
+    "path": "/training/re-rto-renewal-stu"
+  },
+  {
+    "pillarKey": "train",
+    "pillar": "Training",
+    "pillarHref": "/training",
+    "crumb": "Bespoke Training",
+    "tag": "TRAINING · PROFESSIONAL",
+    "code": "TR-14",
+    "title": "Bespoke training",
+    "intro": "Training built around your organisation — your site, your job roles and your compliance requirements — for engineering, construction and industrial workforces.",
+    "img": "/images/tr-bespoke.jpg",
+    "imgAlt": "Small corporate training workshop in a plant meeting room",
+    "cta": "Design a programme",
+    "facts": [
+      {
+        "k": "DELIVERY",
+        "v": "YOUR SITE / OURS"
+      },
+      {
+        "k": "GROUP",
+        "v": "CLOSED BATCH"
+      },
+      {
+        "k": "LANGUAGE",
+        "v": "EN · AR"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "STANDARD VS BESPOKE",
+        "heading": "Two ways to train",
+        "items": [
+          {
+            "t": "Standard courses",
+            "d": "Structured content aligned with recognised qualifications — ideal for individual certification and foundational knowledge."
+          },
+          {
+            "t": "Bespoke programmes",
+            "d": "Designed around site-specific challenges, specialised job roles and regulatory needs, so training is directly relevant to real work."
+          }
+        ]
+      },
+      {
+        "kind": "steps",
+        "tone": "ink",
+        "eyebrow": "HOW WE BUILD IT",
+        "heading": "From brief to rollout",
+        "items": [
+          {
+            "t": "Discover",
+            "d": "Understand your goals, sites and roles."
+          },
+          {
+            "t": "Design",
+            "d": "Build a programme and assessment plan."
+          },
+          {
+            "t": "Deliver",
+            "d": "Train at your site or our centre."
+          },
+          {
+            "t": "Measure",
+            "d": "Competency records and certificates."
+          }
+        ]
+      }
+    ],
+    "relatedLabel": "RELATED",
+    "related": [
+      {
+        "t": "Safety Induction",
+        "href": "/training/safety-orientation-induction"
+      },
+      {
+        "t": "All courses",
+        "href": "/training"
+      },
+      {
+        "t": "Contact us",
+        "href": "/contact"
+      }
+    ],
+    "ctaTitle": "Tell us what your team needs.",
+    "path": "/training/bespoke-training"
+  },
+  {
+    "pillarKey": "cal",
+    "pillar": "",
+    "pillarHref": "",
+    "crumb": "Calibration",
+    "tag": "DISCIPLINE 06",
+    "code": "CAL",
+    "title": "Calibration",
+    "intro": "Accurate, traceable calibration in our laboratories or at your site — keeping measuring instruments precise, compliant and audit-ready.",
+    "img": "/images/cal-hub.jpg",
+    "imgAlt": "Technician calibrating a field pressure transmitter with a process calibrator",
+    "cta": "Request calibration",
+    "facts": [
+      {
+        "k": "DISCIPLINES",
+        "v": "9"
+      },
+      {
+        "k": "WHERE",
+        "v": "LAB · ONSITE"
+      },
+      {
+        "k": "TRACEABILITY",
+        "v": "NATIONAL / INTL."
+      },
+      {
+        "k": "LAB PRACTICE",
+        "v": "ISO/IEC 17025"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "index",
+        "eyebrow": "CALIBRATION SERVICES",
+        "heading": "Choose a discipline",
+        "items": [
+          {
+            "t": "Pressure",
+            "d": "Gauges, transmitters and calibrators up to 3000 bar.",
+            "href": "/calibration/pressure"
+          },
+          {
+            "t": "Dimensional",
+            "d": "Gauge blocks, calipers, micrometers and thread gauges.",
+            "href": "/calibration/dimensional"
+          },
+          {
+            "t": "Electrical",
+            "d": "Electrical and electronic test instruments.",
+            "href": "/calibration/electrical"
+          },
+          {
+            "t": "Thermal",
+            "d": "Ovens, furnaces, chambers, thermocouples and mapping.",
+            "href": "/calibration/thermal"
+          },
+          {
+            "t": "Torque",
+            "d": "Torque wrenches, screwdrivers and transducers.",
+            "href": "/calibration/torque"
+          },
+          {
+            "t": "Flow meter",
+            "d": "Onsite flow meter calibration up to 72 inch.",
+            "href": "/calibration/flow-meter"
+          },
+          {
+            "t": "Mass & volume",
+            "d": "Balances and weights from 1 mg to 600 kg.",
+            "href": "/calibration/mass-volume"
+          },
+          {
+            "t": "Gas detector",
+            "d": "Single and multi-gas detectors, analysers and transmitters.",
+            "href": "/calibration/gas-detector"
+          },
+          {
+            "t": "Onsite",
+            "d": "Mobile calibration and testing at your facility.",
+            "href": "/calibration/onsite"
+          }
+        ]
+      },
+      {
+        "kind": "steps",
+        "tone": "ink",
+        "eyebrow": "HOW IT WORKS",
+        "heading": "Instrument in, certificate out",
+        "items": [
+          {
+            "t": "Book",
+            "d": "Send your instrument list or schedule a site visit."
+          },
+          {
+            "t": "Calibrate",
+            "d": "Against traceable master standards."
+          },
+          {
+            "t": "Certify",
+            "d": "Certificate with results and uncertainty."
+          },
+          {
+            "t": "Remind",
+            "d": "We alert you before the next due date."
+          }
+        ]
+      }
+    ],
+    "relatedLabel": "ALSO SEE",
+    "related": [
+      {
+        "t": "Onsite Calibration",
+        "href": "/calibration/onsite"
+      },
+      {
+        "t": "Verify a certificate",
+        "href": "/verify"
+      },
+      {
+        "t": "NDT",
+        "href": "/ndt"
+      }
+    ],
+    "ctaTitle": "Send us your instrument list.",
+    "path": "/calibration"
+  },
+  {
+    "pillarKey": "cal",
+    "pillar": "Calibration",
+    "pillarHref": "/calibration",
+    "crumb": "Pressure",
+    "tag": "CALIBRATION",
+    "code": "CAL-01",
+    "title": "Pressure calibration",
+    "intro": "Pressure and vacuum calibration that protects process stability, product quality and regulatory compliance — with highly accurate, consistent readings you can trust.",
+    "img": "/images/calibration-lab.jpg",
+    "imgAlt": "Technician calibrating pressure gauges on a deadweight tester",
+    "cta": "Calibrate pressure instruments",
+    "facts": [
+      {
+        "k": "RANGE",
+        "v": "UP TO 3000 BAR"
+      },
+      {
+        "k": "PSI",
+        "v": "43,500 PSI"
+      },
+      {
+        "k": "INCLUDES",
+        "v": "VACUUM"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "INSTRUMENTS",
+        "heading": "What we calibrate",
+        "items": [
+          {
+            "t": "Pressure gauges"
+          },
+          {
+            "t": "Pressure transmitters"
+          },
+          {
+            "t": "Differential pressure transmitters"
+          },
+          {
+            "t": "Pressure calibrators"
+          },
+          {
+            "t": "Pressure indicators"
+          },
+          {
+            "t": "Pressure recorders"
+          },
+          {
+            "t": "Pressure controllers"
+          },
+          {
+            "t": "Vacuum gauges"
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "tone": "ink",
+        "eyebrow": "WHY IT MATTERS",
+        "heading": "Accurate pressure, safer plant",
+        "items": [
+          "Process stability and efficiency",
+          "Equipment performance",
+          "Accurate test results",
+          "Regulatory compliance and audit readiness"
+        ]
+      }
+    ],
+    "relatedLabel": "MORE CALIBRATION",
+    "related": [
+      {
+        "t": "Thermal",
+        "href": "/calibration/thermal"
+      },
+      {
+        "t": "Flow Meter",
+        "href": "/calibration/flow-meter"
+      },
+      {
+        "t": "Onsite",
+        "href": "/calibration/onsite"
+      }
+    ],
+    "ctaTitle": "Get your gauges certified.",
+    "path": "/calibration/pressure"
+  },
+  {
+    "pillarKey": "cal",
+    "pillar": "Calibration",
+    "pillarHref": "/calibration",
+    "crumb": "Dimensional",
+    "tag": "CALIBRATION",
+    "code": "CAL-02",
+    "title": "Dimensional calibration",
+    "intro": "Precise, reliable dimensional measurement for critical industrial applications — calibrated under controlled conditions with modern equipment and techniques.",
+    "img": "/images/cal-dimensional.jpg",
+    "imgAlt": "Micrometer, calipers and gauge blocks on a granite surface plate",
+    "cta": "Calibrate measuring tools",
+    "facts": [
+      {
+        "k": "CONDITIONS",
+        "v": "TEMP-CONTROLLED"
+      },
+      {
+        "k": "TOOLS",
+        "v": "HAND · GAUGE · BLOCK"
+      },
+      {
+        "k": "METHOD",
+        "v": "CONTINUOUSLY UPDATED"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "INSTRUMENTS",
+        "heading": "What we calibrate",
+        "items": [
+          {
+            "t": "Gauge blocks"
+          },
+          {
+            "t": "Vernier & digital calipers"
+          },
+          {
+            "t": "Micrometers"
+          },
+          {
+            "t": "Thread gauges"
+          },
+          {
+            "t": "Plug gauges"
+          },
+          {
+            "t": "Other dimensional tools"
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "tone": "ink",
+        "eyebrow": "OUR APPROACH",
+        "heading": "Accuracy you can rely on",
+        "items": [
+          "Controlled conditions minimise temperature effects on sensitive parts",
+          "Advanced calibration equipment and modern measurement techniques",
+          "Tools and methods upgraded with new technology",
+          "Consistent, repeatable results"
+        ]
+      }
+    ],
+    "relatedLabel": "MORE CALIBRATION",
+    "related": [
+      {
+        "t": "Torque",
+        "href": "/calibration/torque"
+      },
+      {
+        "t": "Mass & Volume",
+        "href": "/calibration/mass-volume"
+      },
+      {
+        "t": "All calibration",
+        "href": "/calibration"
+      }
+    ],
+    "ctaTitle": "Measure to the micron.",
+    "path": "/calibration/dimensional"
+  },
+  {
+    "pillarKey": "cal",
+    "pillar": "Calibration",
+    "pillarHref": "/calibration",
+    "crumb": "Electrical",
+    "tag": "CALIBRATION",
+    "code": "CAL-03",
+    "title": "Electrical calibration",
+    "intro": "Calibration of electrical and electronic instruments for industrial and laboratory use — maintaining measurement accuracy, system reliability and operational efficiency.",
+    "img": "/images/cal-electrical.jpg",
+    "imgAlt": "Technician calibrating a digital multimeter with a precision calibrator",
+    "cta": "Calibrate electrical instruments",
+    "facts": [
+      {
+        "k": "SCOPE",
+        "v": "INDUSTRIAL + LAB"
+      },
+      {
+        "k": "MASTERS",
+        "v": "PRECISION CALIBRATORS"
+      },
+      {
+        "k": "OUTPUT",
+        "v": "TRACEABLE CERT"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "INSTRUMENTS",
+        "heading": "What we calibrate",
+        "items": [
+          {
+            "t": "Multimeters"
+          },
+          {
+            "t": "Clamp meters"
+          },
+          {
+            "t": "Insulation testers"
+          },
+          {
+            "t": "Earth testers"
+          },
+          {
+            "t": "Process calibrators"
+          },
+          {
+            "t": "Power analysers"
+          },
+          {
+            "t": "Oscilloscopes"
+          },
+          {
+            "t": "[Other — confirm scope]"
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "tone": "ink",
+        "eyebrow": "WHY US",
+        "heading": "Consistent, dependable results",
+        "items": [
+          "Experienced technicians",
+          "Advanced calibration techniques",
+          "Modern master equipment",
+          "Clear certificates with measured values"
+        ]
+      }
+    ],
+    "relatedLabel": "MORE CALIBRATION",
+    "related": [
+      {
+        "t": "Thermal",
+        "href": "/calibration/thermal"
+      },
+      {
+        "t": "Gas Detector",
+        "href": "/calibration/gas-detector"
+      },
+      {
+        "t": "All calibration",
+        "href": "/calibration"
+      }
+    ],
+    "ctaTitle": "Keep your meters honest.",
+    "path": "/calibration/electrical"
+  },
+  {
+    "pillarKey": "cal",
+    "pillar": "Calibration",
+    "pillarHref": "/calibration",
+    "crumb": "Thermal",
+    "tag": "CALIBRATION",
+    "code": "CAL-04",
+    "title": "Thermal calibration",
+    "intro": "An accredited thermal laboratory with high-precision master equipment — plus onsite calibration, temperature and humidity mapping, and validation of your thermal equipment.",
+    "img": "/images/cal-thermal.jpg",
+    "imgAlt": "Dry-block temperature calibrator with probes and a reference thermometer",
+    "cta": "Calibrate thermal equipment",
+    "facts": [
+      {
+        "k": "LAB",
+        "v": "ACCREDITED"
+      },
+      {
+        "k": "SERVICES",
+        "v": "CAL · MAPPING · VALIDATION"
+      },
+      {
+        "k": "WHERE",
+        "v": "LAB + ONSITE"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "ONSITE CALIBRATION",
+        "heading": "Equipment we cover",
+        "items": [
+          {
+            "t": "Hot air ovens"
+          },
+          {
+            "t": "Muffle furnaces"
+          },
+          {
+            "t": "BOD incubators"
+          },
+          {
+            "t": "Autoclaves"
+          },
+          {
+            "t": "Tunnel & dry heat sterilisers"
+          },
+          {
+            "t": "Refrigerators & cold rooms"
+          },
+          {
+            "t": "Walk-in & stability chambers"
+          },
+          {
+            "t": "Welding ovens"
+          },
+          {
+            "t": "Temperature transmitters"
+          },
+          {
+            "t": "Thermocouples"
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "tone": "ink",
+        "eyebrow": "MAPPING & VALIDATION",
+        "heading": "Beyond a single reading",
+        "items": [
+          "Temperature and humidity mapping",
+          "Thermal validation of chambers, ovens, furnaces and autoclaves",
+          "Validation of freezers, refrigerators, incubators and cold rooms",
+          "Thermocouple calibration"
+        ]
+      }
+    ],
+    "relatedLabel": "MORE CALIBRATION",
+    "related": [
+      {
+        "t": "Pressure",
+        "href": "/calibration/pressure"
+      },
+      {
+        "t": "Electrical",
+        "href": "/calibration/electrical"
+      },
+      {
+        "t": "Onsite",
+        "href": "/calibration/onsite"
+      }
+    ],
+    "ctaTitle": "Validate your thermal equipment.",
+    "path": "/calibration/thermal"
+  },
+  {
+    "pillarKey": "cal",
+    "pillar": "Calibration",
+    "pillarHref": "/calibration",
+    "crumb": "Torque",
+    "tag": "CALIBRATION",
+    "code": "CAL-05",
+    "title": "Torque calibration",
+    "intro": "Reliable, accurate torque calibration using advanced technology and precision equipment — so every bolt is tightened to the value your design demands.",
+    "img": "/images/cal-torque.jpg",
+    "imgAlt": "Torque wrench mounted on a torque calibration test bench",
+    "cta": "Calibrate torque tools",
+    "facts": [
+      {
+        "k": "TOOLS",
+        "v": "WRENCHES · DRIVERS"
+      },
+      {
+        "k": "STANDARD",
+        "v": "[ISO 6789]"
+      },
+      {
+        "k": "OUTPUT",
+        "v": "TRACEABLE CERT"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "INSTRUMENTS",
+        "heading": "What we calibrate",
+        "items": [
+          {
+            "t": "Click-type torque wrenches"
+          },
+          {
+            "t": "Dial & digital torque wrenches"
+          },
+          {
+            "t": "Torque screwdrivers"
+          },
+          {
+            "t": "Hydraulic torque tools"
+          },
+          {
+            "t": "Torque transducers"
+          },
+          {
+            "t": "Torque testers"
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "tone": "ink",
+        "eyebrow": "WHY IT MATTERS",
+        "heading": "Bolted joints you can trust",
+        "items": [
+          "Measurement accuracy",
+          "Equipment reliability",
+          "Compliance with calibration standards",
+          "Efficient, high-quality turnaround"
+        ]
+      }
+    ],
+    "relatedLabel": "MORE CALIBRATION",
+    "related": [
+      {
+        "t": "Dimensional",
+        "href": "/calibration/dimensional"
+      },
+      {
+        "t": "Pressure",
+        "href": "/calibration/pressure"
+      },
+      {
+        "t": "All calibration",
+        "href": "/calibration"
+      }
+    ],
+    "ctaTitle": "Tighten to spec, every time.",
+    "path": "/calibration/torque"
+  },
+  {
+    "pillarKey": "cal",
+    "pillar": "Calibration",
+    "pillarHref": "/calibration",
+    "crumb": "Flow Meter",
+    "tag": "CALIBRATION",
+    "code": "CAL-06",
+    "title": "Flow meter calibration",
+    "intro": "Regular flow meter calibration keeps your measurements as accurate as their specifications say — tailored to your needs, at your site or in our mobile and depot labs.",
+    "img": "/images/cal-flow.jpg",
+    "imgAlt": "Large electromagnetic flow meter on a pipeline with a technician",
+    "cta": "Calibrate flow meters",
+    "facts": [
+      {
+        "k": "ONSITE",
+        "v": "UP TO 72 INCH"
+      },
+      {
+        "k": "TYPES",
+        "v": "12+"
+      },
+      {
+        "k": "LABS",
+        "v": "MOBILE + DEPOT"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "CAPABILITIES",
+        "heading": "Meter types we calibrate",
+        "items": [
+          {
+            "t": "Coriolis"
+          },
+          {
+            "t": "Electromagnetic"
+          },
+          {
+            "t": "Gas flow"
+          },
+          {
+            "t": "Laminar flow"
+          },
+          {
+            "t": "Liquid flow"
+          },
+          {
+            "t": "Magnetic"
+          },
+          {
+            "t": "Optical"
+          },
+          {
+            "t": "Paddle wheel"
+          },
+          {
+            "t": "Rotameter"
+          },
+          {
+            "t": "Thermal mass"
+          },
+          {
+            "t": "Turbine"
+          },
+          {
+            "t": "Ultrasonic"
+          }
+        ]
+      },
+      {
+        "kind": "steps",
+        "tone": "ink",
+        "eyebrow": "ONSITE PROCESS",
+        "heading": "Calibrated in line",
+        "items": [
+          {
+            "t": "Survey",
+            "d": "Meter, line size and process conditions reviewed."
+          },
+          {
+            "t": "Reference",
+            "d": "Traceable reference installed or clamped on."
+          },
+          {
+            "t": "Compare",
+            "d": "Readings compared across the flow range."
+          },
+          {
+            "t": "Certify",
+            "d": "Results and adjustments documented."
+          }
+        ]
+      }
+    ],
+    "relatedLabel": "MORE CALIBRATION",
+    "related": [
+      {
+        "t": "Pressure",
+        "href": "/calibration/pressure"
+      },
+      {
+        "t": "Onsite",
+        "href": "/calibration/onsite"
+      },
+      {
+        "t": "All calibration",
+        "href": "/calibration"
+      }
+    ],
+    "ctaTitle": "Trust every cubic metre.",
+    "path": "/calibration/flow-meter"
+  },
+  {
+    "pillarKey": "cal",
+    "pillar": "Calibration",
+    "pillarHref": "/calibration",
+    "crumb": "Mass & Volume",
+    "tag": "CALIBRATION",
+    "code": "CAL-07",
+    "title": "Mass & volume calibration",
+    "intro": "A climate-controlled mass laboratory with granite tables, anti-vibration benches and master weights traceable to national and international standards.",
+    "img": "/images/cal-mass.jpg",
+    "imgAlt": "Reference weight placed on a precision analytical balance",
+    "cta": "Calibrate balances & weights",
+    "facts": [
+      {
+        "k": "BALANCES",
+        "v": "1 MG – 600 KG"
+      },
+      {
+        "k": "WEIGHTS",
+        "v": "1 MG – 500 G"
+      },
+      {
+        "k": "CLASSES",
+        "v": "E2 · F1 · F2 · M1"
+      },
+      {
+        "k": "PRACTICE",
+        "v": "ISO/IEC 17025"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "SCOPE",
+        "heading": "What we calibrate",
+        "items": [
+          {
+            "t": "Weighing balances",
+            "d": "1 mg to 600 kg using E2, F1, F2 and M1 class standard weights."
+          },
+          {
+            "t": "Standard weights",
+            "d": "1 mg to 500 g using high-precision weights and balances."
+          },
+          {
+            "t": "Volumetric equipment",
+            "d": "[Confirm scope — pipettes, flasks, provers]"
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "tone": "ink",
+        "eyebrow": "THE LAB",
+        "heading": "Built for precision",
+        "items": [
+          "Polished granite tables for laboratory balances",
+          "Anti-vibration tables",
+          "Climate-controlled environment",
+          "Procedures aligned with ISO/IEC 17025 practice"
+        ]
+      }
+    ],
+    "relatedLabel": "MORE CALIBRATION",
+    "related": [
+      {
+        "t": "Dimensional",
+        "href": "/calibration/dimensional"
+      },
+      {
+        "t": "Thermal",
+        "href": "/calibration/thermal"
+      },
+      {
+        "t": "All calibration",
+        "href": "/calibration"
+      }
+    ],
+    "ctaTitle": "Weigh with confidence.",
+    "path": "/calibration/mass-volume"
+  },
+  {
+    "pillarKey": "cal",
+    "pillar": "Calibration",
+    "pillarHref": "/calibration",
+    "crumb": "Gas Detector",
+    "tag": "CALIBRATION",
+    "code": "CAL-08",
+    "title": "Gas detector calibration",
+    "intro": "Calibration, testing and certification of gas detection and monitoring instruments — because a detector that reads wrong is worse than no detector at all.",
+    "img": "/images/cal-gas.jpg",
+    "imgAlt": "Portable gas detectors docked in a calibration station with a gas cylinder",
+    "cta": "Calibrate gas detectors",
+    "facts": [
+      {
+        "k": "INSTRUMENTS",
+        "v": "PORTABLE + FIXED"
+      },
+      {
+        "k": "SERVICES",
+        "v": "CAL · BUMP · CERT"
+      },
+      {
+        "k": "SECTORS",
+        "v": "O&G · MARINE · PROCESS"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "INSTRUMENTS",
+        "heading": "What we calibrate",
+        "items": [
+          {
+            "t": "Multi-gas detectors",
+            "d": "Portable personal monitors."
+          },
+          {
+            "t": "Single-gas detectors",
+            "d": "H2S, CO, O2 and LEL monitors."
+          },
+          {
+            "t": "Gas analysers",
+            "d": "Process and portable analysers."
+          },
+          {
+            "t": "Gas transmitters",
+            "d": "Fixed detection systems."
+          }
+        ]
+      },
+      {
+        "kind": "chips",
+        "tone": "ink",
+        "eyebrow": "INDUSTRIES SERVED",
+        "heading": "Where detection saves lives",
+        "items": [
+          "Oil & gas",
+          "Petrochemical",
+          "Marine",
+          "Manufacturing",
+          "Processing industries"
+        ]
+      }
+    ],
+    "relatedLabel": "MORE CALIBRATION",
+    "related": [
+      {
+        "t": "Electrical",
+        "href": "/calibration/electrical"
+      },
+      {
+        "t": "Onsite",
+        "href": "/calibration/onsite"
+      },
+      {
+        "t": "All calibration",
+        "href": "/calibration"
+      }
+    ],
+    "ctaTitle": "Make sure your detectors detect.",
+    "path": "/calibration/gas-detector"
+  },
+  {
+    "pillarKey": "cal",
+    "pillar": "Calibration",
+    "pillarHref": "/calibration",
+    "crumb": "Onsite",
+    "tag": "CALIBRATION",
+    "code": "CAL-09",
+    "title": "Onsite calibration",
+    "intro": "We bring the lab to you — calibration of meters and instruments, testing of safety equipment and valve testing at your facility, delivered to an agreed service level.",
+    "img": "/images/cal-onsite.jpg",
+    "imgAlt": "Mobile calibration laboratory van parked inside an industrial plant",
+    "cta": "Book an onsite visit",
+    "facts": [
+      {
+        "k": "WHERE",
+        "v": "YOUR FACILITY"
+      },
+      {
+        "k": "INCLUDES",
+        "v": "VALVE TESTING"
+      },
+      {
+        "k": "DELIVERY",
+        "v": "TO SLA"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "ONSITE CAPABILITIES",
+        "heading": "What we do on site",
+        "items": [
+          {
+            "t": "Instrument calibration",
+            "d": "Pressure, temperature, electrical and process instruments."
+          },
+          {
+            "t": "Safety equipment testing",
+            "d": "Inspection and testing to industry guidelines."
+          },
+          {
+            "t": "Valve testing",
+            "d": "Safety and relief valve testing."
+          },
+          {
+            "t": "Offshore support",
+            "d": "Qualified, certified teams for offshore calibration."
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "tone": "ink",
+        "eyebrow": "WHY ONSITE",
+        "heading": "Less downtime, same accuracy",
+        "items": [
+          "No shipping or instrument downtime",
+          "Fully equipped mobile lab",
+          "Qualified and certified technicians",
+          "On-time service to an agreed SLA"
+        ]
+      }
+    ],
+    "relatedLabel": "MORE CALIBRATION",
+    "related": [
+      {
+        "t": "Pressure",
+        "href": "/calibration/pressure"
+      },
+      {
+        "t": "Flow Meter",
+        "href": "/calibration/flow-meter"
+      },
+      {
+        "t": "All calibration",
+        "href": "/calibration"
+      }
+    ],
+    "ctaTitle": "Bring the calibration lab to your site.",
+    "path": "/calibration/onsite"
+  },
+  {
+    "pillarKey": "svc",
+    "pillar": "",
+    "pillarHref": "",
+    "crumb": "Services",
+    "tag": "DISCIPLINE 07",
+    "code": "SVC",
+    "title": "Industrial services",
+    "intro": "Mechanical, electrical and instrumentation works, long-term operation and maintenance, plant mobilisation, housing and remote-site support across the Kingdom.",
+    "img": "/images/svc-hub.jpg",
+    "imgAlt": "Mixed maintenance crew walking through a gas processing plant",
+    "cta": "Discuss a contract",
+    "facts": [
+      {
+        "k": "SERVICE LINES",
+        "v": "5"
+      },
+      {
+        "k": "PERSONNEL",
+        "v": "[2,500+]"
+      },
+      {
+        "k": "EMERGENCY FORCE",
+        "v": "[350+]"
+      },
+      {
+        "k": "COVERAGE",
+        "v": "KSA-WIDE"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "index",
+        "eyebrow": "SERVICE LINES",
+        "heading": "Choose a service",
+        "items": [
+          {
+            "t": "Plant Industrial Services",
+            "d": "Mechanical, electrical and instrumentation works for brownfield projects.",
+            "href": "/services/plant-industrial-services"
+          },
+          {
+            "t": "Operation & Maintenance",
+            "d": "Long-term base-load maintenance teams and an emergency mobile force.",
+            "href": "/services/operation-maintenance"
+          },
+          {
+            "t": "Plant Machinery & Vehicle",
+            "d": "Facilities, equipment, tools, supervision and craftsmen — planned and mobilised.",
+            "href": "/services/plant-machinery-vehicle"
+          },
+          {
+            "t": "Housing Services",
+            "d": "Residential complexes for staff in regions across the Kingdom.",
+            "href": "/services/housing"
+          },
+          {
+            "t": "Remote Services",
+            "d": "Catering, laundry and housekeeping at distant and isolated sites.",
+            "href": "/services/remote-services"
+          }
+        ]
+      },
+      {
+        "kind": "grid",
+        "tone": "ink",
+        "eyebrow": "WHY ONE PARTNER",
+        "heading": "Fewer contractors, one standard",
+        "items": [
+          {
+            "t": "Brownfield experience",
+            "d": "Projects executed for local and international clients."
+          },
+          {
+            "t": "Scale on demand",
+            "d": "Teams sized to base load or emergency."
+          },
+          {
+            "t": "Full support",
+            "d": "People, equipment, housing and logistics together."
+          }
+        ]
+      }
+    ],
+    "relatedLabel": "ALSO SEE",
+    "related": [
+      {
+        "t": "Inspection",
+        "href": "/inspection"
+      },
+      {
+        "t": "Manufacturing",
+        "href": "/manufacturing"
+      },
+      {
+        "t": "Contact us",
+        "href": "/contact"
+      }
+    ],
+    "ctaTitle": "Staff and support your next contract.",
+    "path": "/services"
+  },
+  {
+    "pillarKey": "svc",
+    "pillar": "Services",
+    "pillarHref": "/services",
+    "crumb": "Plant Industrial Services",
+    "tag": "SERVICES",
+    "code": "SVC-01",
+    "title": "Plant industrial services",
+    "intro": "Mechanical, electrical and instrumentation works delivered by teams with extensive brownfield experience across the Kingdom, for local and international clients.",
+    "img": "/images/svc-plant.jpg",
+    "imgAlt": "Technicians working on a motor control cabinet in a substation",
+    "cta": "Scope a project",
+    "facts": [
+      {
+        "k": "DISCIPLINES",
+        "v": "MECH · ELEC · INST"
+      },
+      {
+        "k": "SPECIALITY",
+        "v": "BROWNFIELD"
+      },
+      {
+        "k": "CLIENTS",
+        "v": "LOCAL + INTL."
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "DISCIPLINES",
+        "heading": "Three trades, one team",
+        "items": [
+          {
+            "t": "Mechanical",
+            "d": "Piping, rotating and static equipment installation and modification."
+          },
+          {
+            "t": "Electrical",
+            "d": "Power distribution, MCCs, cabling and terminations."
+          },
+          {
+            "t": "Instrumentation",
+            "d": "Field instruments, loop checks and control system support."
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "tone": "ink",
+        "eyebrow": "BROWNFIELD",
+        "heading": "Working in live plants",
+        "items": [
+          "Tie-ins and modifications on operating facilities",
+          "Permit-to-work and isolation discipline",
+          "Shutdown and turnaround support",
+          "Commissioning assistance"
+        ]
+      }
+    ],
+    "relatedLabel": "MORE SERVICES",
+    "related": [
+      {
+        "t": "Operation & Maintenance",
+        "href": "/services/operation-maintenance"
+      },
+      {
+        "t": "Plant Machinery & Vehicle",
+        "href": "/services/plant-machinery-vehicle"
+      },
+      {
+        "t": "All services",
+        "href": "/services"
+      }
+    ],
+    "ctaTitle": "Bring M, E and I under one contract.",
+    "path": "/services/plant-industrial-services"
+  },
+  {
+    "pillarKey": "svc",
+    "pillar": "Services",
+    "pillarHref": "/services",
+    "crumb": "Operation & Maintenance",
+    "tag": "SERVICES",
+    "code": "SVC-02",
+    "title": "Operation & maintenance",
+    "intro": "Qualified personnel deployed on long-term base-load maintenance contracts with major oil and gas facilities — and a mobile force ready when emergencies strike.",
+    "img": "/images/svc-om.jpg",
+    "imgAlt": "Maintenance team overhauling a large centrifugal pump",
+    "cta": "Discuss an O&M contract",
+    "facts": [
+      {
+        "k": "QUALIFIED PERSONNEL",
+        "v": "[2,500+]"
+      },
+      {
+        "k": "MOBILE FORCE",
+        "v": "[350+]"
+      },
+      {
+        "k": "CONTRACTS",
+        "v": "LONG-TERM"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "MODELS",
+        "heading": "How we support you",
+        "items": [
+          {
+            "t": "Base-load maintenance",
+            "d": "Dedicated teams on long-term contracts with major facilities."
+          },
+          {
+            "t": "Emergency response",
+            "d": "A mobile force deployed when unplanned events happen."
+          },
+          {
+            "t": "Shutdown support",
+            "d": "Extra craft labour for turnarounds."
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "tone": "ink",
+        "eyebrow": "SCOPE",
+        "heading": "Typical work",
+        "items": [
+          "Preventive and corrective maintenance",
+          "Rotating equipment overhaul",
+          "Static equipment and piping repairs",
+          "Electrical and instrumentation maintenance"
+        ]
+      }
+    ],
+    "relatedLabel": "MORE SERVICES",
+    "related": [
+      {
+        "t": "Plant Industrial Services",
+        "href": "/services/plant-industrial-services"
+      },
+      {
+        "t": "Asset Integrity",
+        "href": "/inspection/asset-integrity"
+      },
+      {
+        "t": "All services",
+        "href": "/services"
+      }
+    ],
+    "ctaTitle": "Keep your plant running.",
+    "path": "/services/operation-maintenance"
+  },
+  {
+    "pillarKey": "svc",
+    "pillar": "Services",
+    "pillarHref": "/services",
+    "crumb": "Plant Machinery & Vehicle",
+    "tag": "SERVICES",
+    "code": "SVC-03",
+    "title": "Plant machinery & vehicle",
+    "intro": "We work proactively with clients from planning through to mobilisation — facilities, equipment, tools, experienced supervision and craftsmen, ready when you are.",
+    "img": "/images/svc-machinery.jpg",
+    "imgAlt": "Fleet of heavy machinery and vehicles at a mobilisation yard",
+    "cta": "Plan a mobilisation",
+    "facts": [
+      {
+        "k": "FROM",
+        "v": "PLANNING"
+      },
+      {
+        "k": "TO",
+        "v": "MOBILISATION"
+      },
+      {
+        "k": "INCLUDES",
+        "v": "CREW + KIT"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "WHAT WE PROVIDE",
+        "heading": "Everything to start work",
+        "items": [
+          {
+            "t": "Facilities",
+            "d": "Site offices, workshops and stores."
+          },
+          {
+            "t": "Heavy equipment",
+            "d": "Earthmoving, lifting and plant machinery."
+          },
+          {
+            "t": "Vehicles",
+            "d": "Crew buses, pickups and logistics."
+          },
+          {
+            "t": "Tools",
+            "d": "Calibrated, inspected and tagged."
+          },
+          {
+            "t": "Supervision",
+            "d": "Experienced site supervisors."
+          },
+          {
+            "t": "Craftsmen",
+            "d": "Skilled trades on demand."
+          }
+        ]
+      },
+      {
+        "kind": "steps",
+        "tone": "ink",
+        "eyebrow": "PROCESS",
+        "heading": "Mobilised on schedule",
+        "items": [
+          {
+            "t": "Plan",
+            "d": "Resource plan against your schedule."
+          },
+          {
+            "t": "Prepare",
+            "d": "Equipment inspected and certified."
+          },
+          {
+            "t": "Mobilise",
+            "d": "Delivered and set up on site."
+          },
+          {
+            "t": "Support",
+            "d": "Maintained for the life of the job."
+          }
+        ]
+      }
+    ],
+    "relatedLabel": "MORE SERVICES",
+    "related": [
+      {
+        "t": "Third Party Inspection",
+        "href": "/inspection/third-party-inspection"
+      },
+      {
+        "t": "Equipment Operator Training",
+        "href": "/training/equipment-operator-safety"
+      },
+      {
+        "t": "All services",
+        "href": "/services"
+      }
+    ],
+    "ctaTitle": "Get your site moving.",
+    "path": "/services/plant-machinery-vehicle"
+  },
+  {
+    "pillarKey": "svc",
+    "pillar": "Services",
+    "pillarHref": "/services",
+    "crumb": "Housing Services",
+    "tag": "SERVICES",
+    "code": "SVC-04",
+    "title": "Housing services",
+    "intro": "Staff accommodation to international standards — we own and operate multiple residential complexes in regions across the Kingdom.",
+    "img": "/images/svc-housing.jpg",
+    "imgAlt": "Modern staff residential compound with palm trees",
+    "cta": "Enquire about housing",
+    "facts": [
+      {
+        "k": "COMPLEXES",
+        "v": "[X] SITES"
+      },
+      {
+        "k": "REGIONS",
+        "v": "KSA-WIDE"
+      },
+      {
+        "k": "STANDARD",
+        "v": "INTERNATIONAL"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "WHAT IS INCLUDED",
+        "heading": "Comfortable, managed living",
+        "items": [
+          {
+            "t": "Furnished rooms",
+            "d": "[Single / shared configurations]"
+          },
+          {
+            "t": "Facility management",
+            "d": "Maintenance, cleaning and security."
+          },
+          {
+            "t": "Common areas",
+            "d": "Dining, recreation and prayer facilities."
+          },
+          {
+            "t": "Transport",
+            "d": "[Shuttle to site — confirm]"
+          }
+        ]
+      },
+      {
+        "kind": "chips",
+        "tone": "ink",
+        "eyebrow": "LOCATIONS",
+        "heading": "Where we operate",
+        "items": [
+          "[Yanbu]",
+          "[Region 2]",
+          "[Region 3]",
+          "[Region 4]"
+        ]
+      }
+    ],
+    "relatedLabel": "MORE SERVICES",
+    "related": [
+      {
+        "t": "Remote Services",
+        "href": "/services/remote-services"
+      },
+      {
+        "t": "Operation & Maintenance",
+        "href": "/services/operation-maintenance"
+      },
+      {
+        "t": "All services",
+        "href": "/services"
+      }
+    ],
+    "ctaTitle": "House your workforce with us.",
+    "path": "/services/housing"
+  },
+  {
+    "pillarKey": "svc",
+    "pillar": "Services",
+    "pillarHref": "/services",
+    "crumb": "Remote Services",
+    "tag": "SERVICES",
+    "code": "SVC-05",
+    "title": "Remote services",
+    "intro": "Logistics capability to operate mobile or fixed client facilities in distant, isolated locations — with trained teams delivering catering, laundry and housekeeping in extreme conditions.",
+    "img": "/images/svc-remote.jpg",
+    "imgAlt": "Remote desert work camp with modular cabins and dining hall",
+    "cta": "Plan remote-site support",
+    "facts": [
+      {
+        "k": "FACILITIES",
+        "v": "MOBILE + FIXED"
+      },
+      {
+        "k": "CONDITIONS",
+        "v": "EXTREME"
+      },
+      {
+        "k": "STANDARD",
+        "v": "QUALITY + SAFETY"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "CAMP SERVICES",
+        "heading": "Life support, handled",
+        "items": [
+          {
+            "t": "Catering",
+            "d": "Kitchen and dining operations for remote crews."
+          },
+          {
+            "t": "Laundry",
+            "d": "Workwear and linen services on site."
+          },
+          {
+            "t": "Housekeeping",
+            "d": "Clean, well-run accommodation."
+          },
+          {
+            "t": "Logistics",
+            "d": "Supplies delivered to isolated locations."
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "tone": "ink",
+        "eyebrow": "WHY IT WORKS",
+        "heading": "Built for the remote",
+        "items": [
+          "Trained, dedicated teams",
+          "Experience operating in extreme conditions",
+          "Highest quality and safety standards",
+          "Operation of client-owned or our own facilities"
+        ]
+      }
+    ],
+    "relatedLabel": "MORE SERVICES",
+    "related": [
+      {
+        "t": "Housing Services",
+        "href": "/services/housing"
+      },
+      {
+        "t": "Plant Machinery & Vehicle",
+        "href": "/services/plant-machinery-vehicle"
+      },
+      {
+        "t": "All services",
+        "href": "/services"
+      }
+    ],
+    "ctaTitle": "Support crews anywhere.",
+    "path": "/services/remote-services"
+  },
+  {
+    "pillarKey": "mfg",
+    "pillar": "",
+    "pillarHref": "",
+    "crumb": "Manufacturing",
+    "tag": "DISCIPLINE 08",
+    "code": "MFG",
+    "title": "Manufacturing & supply",
+    "intro": "Power protection equipment, welding products and safety gear — manufactured and supplied for industrial, commercial and construction customers.",
+    "img": "/images/mfg-hub.jpg",
+    "imgAlt": "Technicians assembling electrical cabinets on a production line",
+    "cta": "Request a product quote",
+    "facts": [
+      {
+        "k": "PRODUCT LINES",
+        "v": "5"
+      },
+      {
+        "k": "POWER",
+        "v": "STABILIZERS · UPS"
+      },
+      {
+        "k": "WELDING",
+        "v": "ELECTRODES · MACHINES"
+      },
+      {
+        "k": "SAFETY",
+        "v": "PPE"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "index",
+        "eyebrow": "PRODUCT LINES",
+        "heading": "Choose a product",
+        "items": [
+          {
+            "t": "Servo Stabilizer",
+            "d": "Consistent voltage that protects critical equipment from fluctuations.",
+            "href": "/manufacturing/servo-stabilizer"
+          },
+          {
+            "t": "UPS Online & Offline",
+            "d": "Uninterrupted power for critical industrial, commercial and IT loads.",
+            "href": "/manufacturing/ups-online-offline"
+          },
+          {
+            "t": "Welding Electrodes",
+            "d": "Stable arc, smooth deposition and minimal spatter.",
+            "href": "/manufacturing/welding-electrodes"
+          },
+          {
+            "t": "Welding Machines & Consumables",
+            "d": "Machines, wires, torches and accessories.",
+            "href": "/manufacturing/welding-machines-consumables"
+          },
+          {
+            "t": "Safety Equipment & Accessories",
+            "d": "PPE and protective solutions that meet industry standards.",
+            "href": "/manufacturing/safety-equipment"
+          }
+        ]
+      },
+      {
+        "kind": "grid",
+        "tone": "ink",
+        "eyebrow": "WHY BUY FROM US",
+        "heading": "Products backed by engineers",
+        "items": [
+          {
+            "t": "Specified correctly",
+            "d": "Sized and selected by our technical team."
+          },
+          {
+            "t": "Installed & serviced",
+            "d": "Commissioning and after-sales support."
+          },
+          {
+            "t": "Local stock",
+            "d": "[Lead times — confirm]"
+          }
+        ]
+      }
+    ],
+    "relatedLabel": "ALSO SEE",
+    "related": [
+      {
+        "t": "Welding services",
+        "href": "/welding"
+      },
+      {
+        "t": "Electrical Calibration",
+        "href": "/calibration/electrical"
+      },
+      {
+        "t": "Contact us",
+        "href": "/contact"
+      }
+    ],
+    "ctaTitle": "Tell us what you need to buy.",
+    "path": "/manufacturing"
+  },
+  {
+    "pillarKey": "mfg",
+    "pillar": "Manufacturing",
+    "pillarHref": "/manufacturing",
+    "crumb": "Servo Stabilizer",
+    "tag": "MANUFACTURING · POWER",
+    "code": "MFG-01",
+    "title": "Servo voltage stabilizer",
+    "intro": "Reliable servo stabilizers that hold voltage steady, protect critical equipment from fluctuations and extend equipment life in industrial, commercial and sensitive electronic applications.",
+    "img": "/images/mfg-servo.jpg",
+    "imgAlt": "Industrial servo voltage stabilizer cabinet with door open",
+    "cta": "Request a quote",
+    "facts": [
+      {
+        "k": "PHASE",
+        "v": "[1Φ · 3Φ]"
+      },
+      {
+        "k": "RATING",
+        "v": "[X – XXX kVA]"
+      },
+      {
+        "k": "COOLING",
+        "v": "[AIR · OIL]"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "BENEFITS",
+        "heading": "Why fit a stabilizer",
+        "items": [
+          {
+            "t": "Consistent voltage",
+            "d": "Steady output despite supply swings."
+          },
+          {
+            "t": "Equipment protection",
+            "d": "Reduced electrical stress and failures."
+          },
+          {
+            "t": "Longer life",
+            "d": "Extended life for motors and electronics."
+          },
+          {
+            "t": "Efficient operation",
+            "d": "Uninterrupted, efficient performance."
+          }
+        ]
+      },
+      {
+        "kind": "chips",
+        "tone": "ink",
+        "eyebrow": "APPLICATIONS",
+        "heading": "Where they are used",
+        "items": [
+          "Industrial plants",
+          "Commercial buildings",
+          "Hospitals & labs",
+          "Data and control rooms",
+          "CNC & machine shops"
+        ]
+      }
+    ],
+    "relatedLabel": "MORE PRODUCTS",
+    "related": [
+      {
+        "t": "UPS Online & Offline",
+        "href": "/manufacturing/ups-online-offline"
+      },
+      {
+        "t": "Electrical Calibration",
+        "href": "/calibration/electrical"
+      },
+      {
+        "t": "All products",
+        "href": "/manufacturing"
+      }
+    ],
+    "ctaTitle": "Protect your equipment from bad power.",
+    "path": "/manufacturing/servo-stabilizer"
+  },
+  {
+    "pillarKey": "mfg",
+    "pillar": "Manufacturing",
+    "pillarHref": "/manufacturing",
+    "crumb": "UPS Online & Offline",
+    "tag": "MANUFACTURING · POWER",
+    "code": "MFG-02",
+    "title": "UPS online & offline",
+    "intro": "Dependable uninterruptible power for critical operations — protecting equipment from interruptions, voltage fluctuations and outages across industrial, commercial and IT environments.",
+    "img": "/images/mfg-ups.jpg",
+    "imgAlt": "Row of online UPS cabinets and battery racks",
+    "cta": "Size a UPS",
+    "facts": [
+      {
+        "k": "TOPOLOGY",
+        "v": "ONLINE · OFFLINE"
+      },
+      {
+        "k": "RATING",
+        "v": "[X – XXX kVA]"
+      },
+      {
+        "k": "BACKUP",
+        "v": "[XX MIN]"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "CHOOSE A TYPE",
+        "heading": "Online or offline",
+        "items": [
+          {
+            "t": "Online UPS",
+            "d": "Double-conversion, zero transfer time — for sensitive and critical loads."
+          },
+          {
+            "t": "Offline UPS",
+            "d": "Cost-effective standby protection for less critical equipment."
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "tone": "ink",
+        "eyebrow": "WHAT YOU GET",
+        "heading": "Continuity, protected",
+        "items": [
+          "Protection from power interruptions and outages",
+          "Voltage fluctuation protection",
+          "Data safety and operational continuity",
+          "Sizing, installation and after-sales service"
+        ]
+      }
+    ],
+    "relatedLabel": "MORE PRODUCTS",
+    "related": [
+      {
+        "t": "Servo Stabilizer",
+        "href": "/manufacturing/servo-stabilizer"
+      },
+      {
+        "t": "Plant Industrial Services",
+        "href": "/services/plant-industrial-services"
+      },
+      {
+        "t": "All products",
+        "href": "/manufacturing"
+      }
+    ],
+    "ctaTitle": "Never lose power to what matters.",
+    "path": "/manufacturing/ups-online-offline"
+  },
+  {
+    "pillarKey": "mfg",
+    "pillar": "Manufacturing",
+    "pillarHref": "/manufacturing",
+    "crumb": "Welding Electrodes",
+    "tag": "MANUFACTURING · WELDING",
+    "code": "MFG-03",
+    "title": "Welding electrodes",
+    "intro": "High-quality electrodes for strong, durable, reliable welds — excellent arc stability, smooth deposition and minimal spatter for construction, fabrication and industrial work.",
+    "img": "/images/mfg-electrodes.jpg",
+    "imgAlt": "Bundle of flux-coated welding electrodes beside an electrode holder",
+    "cta": "Order electrodes",
+    "facts": [
+      {
+        "k": "ARC",
+        "v": "STABLE"
+      },
+      {
+        "k": "SPATTER",
+        "v": "MINIMAL"
+      },
+      {
+        "k": "CLASSES",
+        "v": "[E6013 · E7018 · …]"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "PERFORMANCE",
+        "heading": "Why welders choose them",
+        "items": [
+          {
+            "t": "Arc stability",
+            "d": "Smooth, controllable arc."
+          },
+          {
+            "t": "Clean deposition",
+            "d": "Even beads with good fusion."
+          },
+          {
+            "t": "Low spatter",
+            "d": "Less clean-up after welding."
+          },
+          {
+            "t": "Consistent quality",
+            "d": "Batch-to-batch reliability."
+          }
+        ]
+      },
+      {
+        "kind": "chips",
+        "tone": "ink",
+        "eyebrow": "RANGE",
+        "heading": "Electrode types",
+        "body": "Confirm your product range and classifications.",
+        "items": [
+          "[Mild steel]",
+          "[Low hydrogen]",
+          "[Stainless steel]",
+          "[Cast iron]",
+          "[Hardfacing]"
+        ]
+      }
+    ],
+    "relatedLabel": "MORE PRODUCTS",
+    "related": [
+      {
+        "t": "Welding Machines & Consumables",
+        "href": "/manufacturing/welding-machines-consumables"
+      },
+      {
+        "t": "Welding services",
+        "href": "/welding"
+      },
+      {
+        "t": "All products",
+        "href": "/manufacturing"
+      }
+    ],
+    "ctaTitle": "Stock up on quality electrodes.",
+    "path": "/manufacturing/welding-electrodes"
+  },
+  {
+    "pillarKey": "mfg",
+    "pillar": "Manufacturing",
+    "pillarHref": "/manufacturing",
+    "crumb": "Welding Machines & Consumables",
+    "tag": "MANUFACTURING · WELDING",
+    "code": "MFG-04",
+    "title": "Welding machines & consumables",
+    "intro": "High-performance welding machines and consumables — equipment, electrodes, wires and accessories built for durability, precision and consistent weld quality.",
+    "img": "/images/mfg-weldmachines.jpg",
+    "imgAlt": "Welding machines, wire spools and torches on warehouse shelves",
+    "cta": "Request a quote",
+    "facts": [
+      {
+        "k": "PROCESSES",
+        "v": "[MMA · MIG · TIG]"
+      },
+      {
+        "k": "RANGE",
+        "v": "MACHINES + CONSUMABLES"
+      },
+      {
+        "k": "SUPPORT",
+        "v": "AFTER-SALES"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "RANGE",
+        "heading": "Everything for the weld bay",
+        "items": [
+          {
+            "t": "Welding machines",
+            "d": "Inverter and industrial power sources."
+          },
+          {
+            "t": "Welding wire",
+            "d": "Solid and flux-cored wires."
+          },
+          {
+            "t": "Electrodes",
+            "d": "Stick electrodes for all common grades."
+          },
+          {
+            "t": "Torches & cables",
+            "d": "Torches, earth clamps and leads."
+          },
+          {
+            "t": "Accessories",
+            "d": "Nozzles, tips and spare parts."
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "tone": "ink",
+        "eyebrow": "WHY US",
+        "heading": "Strong welds start here",
+        "items": [
+          "Durable equipment for tough working conditions",
+          "Precise, consistent results",
+          "Advice from certified welding inspectors",
+          "Service and spares support"
+        ]
+      }
+    ],
+    "relatedLabel": "MORE PRODUCTS",
+    "related": [
+      {
+        "t": "Welding Electrodes",
+        "href": "/manufacturing/welding-electrodes"
+      },
+      {
+        "t": "Welding Inspection Courses",
+        "href": "/training/welding-inspection-courses"
+      },
+      {
+        "t": "All products",
+        "href": "/manufacturing"
+      }
+    ],
+    "ctaTitle": "Equip your welding shop.",
+    "path": "/manufacturing/welding-machines-consumables"
+  },
+  {
+    "pillarKey": "mfg",
+    "pillar": "Manufacturing",
+    "pillarHref": "/manufacturing",
+    "crumb": "Safety Equipment & Accessories",
+    "tag": "MANUFACTURING · SAFETY",
+    "code": "MFG-05",
+    "title": "Safety equipment & accessories",
+    "intro": "PPE, safety gear and protective solutions that meet industry standards — reducing risk, improving workplace safety and supporting compliance on construction, industrial and engineering sites.",
+    "img": "/images/mfg-ppe.jpg",
+    "imgAlt": "Flat lay of hard hat, glasses, ear defenders, gloves, boots, vest and harness",
+    "cta": "Order PPE",
+    "facts": [
+      {
+        "k": "STANDARDS",
+        "v": "INDUSTRY-COMPLIANT"
+      },
+      {
+        "k": "SUPPLY",
+        "v": "BULK + SITE KITS"
+      },
+      {
+        "k": "SECTORS",
+        "v": "CONSTRUCTION · INDUSTRIAL"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "RANGE",
+        "heading": "Head to toe protection",
+        "items": [
+          {
+            "t": "Head protection",
+            "d": "Hard hats and bump caps."
+          },
+          {
+            "t": "Eye & face",
+            "d": "Safety glasses, goggles and visors."
+          },
+          {
+            "t": "Hearing",
+            "d": "Ear defenders and plugs."
+          },
+          {
+            "t": "Hands",
+            "d": "Cut, chemical and heat-resistant gloves."
+          },
+          {
+            "t": "Feet",
+            "d": "Steel-toe safety boots."
+          },
+          {
+            "t": "Hi-vis & fall arrest",
+            "d": "Vests, harnesses and lanyards."
+          }
+        ]
+      },
+      {
+        "kind": "list",
+        "tone": "ink",
+        "eyebrow": "SERVICE",
+        "heading": "More than a catalogue",
+        "items": [
+          "Site PPE kits for new starters",
+          "Bulk supply for contracts",
+          "Harness and lanyard inspection",
+          "Advice from our safety trainers"
+        ]
+      }
+    ],
+    "relatedLabel": "RELATED",
+    "related": [
+      {
+        "t": "Work at Height Training",
+        "href": "/training/work-at-height"
+      },
+      {
+        "t": "Safety Induction",
+        "href": "/training/safety-orientation-induction"
+      },
+      {
+        "t": "All products",
+        "href": "/manufacturing"
+      }
+    ],
+    "ctaTitle": "Kit out your crew safely.",
+    "path": "/manufacturing/safety-equipment"
+  },
+  {
+    "pillarKey": "about",
+    "pillar": "",
+    "pillarHref": "",
+    "crumb": "About Us",
+    "tag": "ABOUT OAGITECH",
+    "code": "EST. [YEAR]",
+    "title": "Engineering certainty",
+    "intro": "OAGITECH is a multi-disciplinary engineering and technical services organisation delivering inspection, NDT, engineering consultancy, calibration and training to industrial, commercial and government clients.",
+    "img": "/images/team.jpg",
+    "imgAlt": "Oagitech engineers and technicians in front of an industrial plant",
+    "cta": "Work with us",
+    "facts": [
+      {
+        "k": "FOUNDED",
+        "v": "[YEAR]"
+      },
+      {
+        "k": "HEADQUARTERS",
+        "v": "YANBU, KSA"
+      },
+      {
+        "k": "PEOPLE",
+        "v": "[XXX]"
+      },
+      {
+        "k": "DISCIPLINES",
+        "v": "8"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "WHO WE ARE",
+        "heading": "Built on people",
+        "body": "Our success comes from skilled, experienced and innovative professionals who combine strong technical knowledge with practical field experience.",
+        "items": [
+          {
+            "t": "Our mission",
+            "d": "Help organisations maintain the highest standards of safety, quality and operational efficiency."
+          },
+          {
+            "t": "Our approach",
+            "d": "Work closely with clients and partners to deliver dependable solutions that meet international standards and regulations."
+          },
+          {
+            "t": "Our promise",
+            "d": "Clear, impartial reporting and solutions that are compliant, reliable and on time."
+          }
+        ]
+      },
+      {
+        "kind": "chips",
+        "tone": "ink",
+        "eyebrow": "SECTORS",
+        "heading": "Industries we support",
+        "items": [
+          "Marine",
+          "Oil & gas",
+          "Petrochemical",
+          "Power generation",
+          "Infrastructure",
+          "Process industries",
+          "Government"
+        ]
+      },
+      {
+        "kind": "list",
+        "eyebrow": "VALUES",
+        "heading": "What we stand for",
+        "items": [
+          {
+            "t": "Safety first",
+            "d": "Workplace safety and dependable execution at every stage."
+          },
+          {
+            "t": "Quality assurance",
+            "d": "High standards of quality, precision and performance in every project."
+          },
+          {
+            "t": "Industry expertise",
+            "d": "Experienced professionals and proven engineering solutions."
+          },
+          {
+            "t": "Efficient execution",
+            "d": "Cost-effective delivery and timely completion."
+          }
+        ]
+      },
+      {
+        "kind": "index",
+        "tone": "stone",
+        "eyebrow": "MORE ABOUT US",
+        "heading": "Explore",
+        "items": [
+          {
+            "t": "Certifications & Awards",
+            "d": "Accreditations and recognitions behind our work.",
+            "href": "/about/certifications"
+          },
+          {
+            "t": "Career",
+            "d": "Join our team of engineers, inspectors and trainers.",
+            "href": "/about/career"
+          },
+          {
+            "t": "Contact",
+            "d": "Talk to us in Yanbu.",
+            "href": "/contact"
+          }
+        ]
+      }
+    ],
+    "relatedLabel": "WHAT WE DO",
+    "related": [
+      {
+        "t": "Inspection",
+        "href": "/inspection"
+      },
+      {
+        "t": "NDT",
+        "href": "/ndt"
+      },
+      {
+        "t": "Training",
+        "href": "/training"
+      }
+    ],
+    "ctaTitle": "Let us support your next project.",
+    "path": "/about"
+  },
+  {
+    "pillarKey": "about",
+    "pillar": "About Us",
+    "pillarHref": "/about",
+    "crumb": "Certifications & Awards",
+    "tag": "ABOUT · QUALITY",
+    "code": "CERT",
+    "title": "Certifications & awards",
+    "intro": "Certifications, industry recognitions and accreditations that reflect our commitment to safety, regulatory compliance and continuous professional development.",
+    "img": "/images/certifications.jpg",
+    "imgAlt": "Quality auditor reviewing certified documents",
+    "cta": "Request copies of certificates",
+    "facts": [
+      {
+        "k": "ACCREDITATIONS",
+        "v": "[X]"
+      },
+      {
+        "k": "PERSONNEL CERTS",
+        "v": "ISO 9712 · ASNT"
+      },
+      {
+        "k": "VERIFY",
+        "v": "ONLINE"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "COMPANY ACCREDITATIONS",
+        "heading": "Accredited & approved",
+        "body": "Replace each card with the real certificate name, number, issuing body and validity.",
+        "items": [
+          {
+            "t": "[ISO 9001]",
+            "d": "Quality management system · Cert no. [—] · Valid to [—]"
+          },
+          {
+            "t": "[ISO/IEC 17025]",
+            "d": "Calibration laboratory · Cert no. [—] · Valid to [—]"
+          },
+          {
+            "t": "[Accreditation 03]",
+            "d": "[Issuing body] · Cert no. [—]"
+          },
+          {
+            "t": "[Accreditation 04]",
+            "d": "[Issuing body] · Cert no. [—]"
+          }
+        ]
+      },
+      {
+        "kind": "chips",
+        "tone": "ink",
+        "eyebrow": "QUALIFIED SCOPE",
+        "heading": "Where our certifications apply",
+        "items": [
+          "Non-destructive testing",
+          "Rope access services",
+          "Welding consultancy",
+          "Inspection engineering",
+          "Hull thickness gauging",
+          "Training services"
+        ]
+      },
+      {
+        "kind": "list",
+        "eyebrow": "AWARDS & RECOGNITION",
+        "heading": "Recognised by industry",
+        "items": [
+          {
+            "t": "[Award name — Year]",
+            "d": "[Awarding organisation and reason]"
+          },
+          {
+            "t": "[Client recognition — Year]",
+            "d": "[Safety milestone or performance award]"
+          },
+          {
+            "t": "[Vendor approval]",
+            "d": "[Approved vendor listing, e.g. major operator]"
+          }
+        ]
+      }
+    ],
+    "relatedLabel": "RELATED",
+    "related": [
+      {
+        "t": "Verify a certificate",
+        "href": "/verify"
+      },
+      {
+        "t": "About us",
+        "href": "/about"
+      },
+      {
+        "t": "Career",
+        "href": "/about/career"
+      }
+    ],
+    "ctaTitle": "Need our certificates for prequalification?",
+    "path": "/about/certifications"
+  },
+  {
+    "pillarKey": "about",
+    "pillar": "About Us",
+    "pillarHref": "/about",
+    "crumb": "Career",
+    "tag": "ABOUT · CAREERS",
+    "code": "JOIN",
+    "title": "Build your career here",
+    "intro": "A dynamic, growing team delivering engineering, inspection and training solutions across critical industries. We are always looking for motivated, skilled people ready for new challenges.",
+    "img": "/images/career.jpg",
+    "imgAlt": "Senior engineer mentoring two young engineers on site",
+    "cta": "Send your CV",
+    "facts": [
+      {
+        "k": "OPEN ROLES",
+        "v": "[X]"
+      },
+      {
+        "k": "SECTORS",
+        "v": "O&G · MARINE · POWER"
+      },
+      {
+        "k": "BASE",
+        "v": "YANBU, KSA"
+      }
+    ],
+    "sections": [
+      {
+        "kind": "grid",
+        "eyebrow": "WHY OAGITECH",
+        "heading": "Our greatest strength is our people",
+        "items": [
+          {
+            "t": "Critical projects",
+            "d": "Work that contributes to safety, compliance and operational excellence."
+          },
+          {
+            "t": "Diverse opportunities",
+            "d": "Roles across multiple regions and industries."
+          },
+          {
+            "t": "Inclusive culture",
+            "d": "A professional, collaborative workplace where innovation is encouraged."
+          },
+          {
+            "t": "Growth & certification",
+            "d": "Training and certification through our own training centre."
+          }
+        ]
+      },
+      {
+        "kind": "index",
+        "tone": "ink",
+        "eyebrow": "OPEN POSITIONS",
+        "heading": "Current openings",
+        "body": "Sample roles — replace with live vacancies.",
+        "items": [
+          {
+            "t": "[NDT Technician — Level II]",
+            "d": "UT / RT · Yanbu · Full time",
+            "href": "/contact"
+          },
+          {
+            "t": "[Welding Inspector — CSWIP 3.1]",
+            "d": "Site based · KSA · Full time",
+            "href": "/contact"
+          },
+          {
+            "t": "[Calibration Engineer]",
+            "d": "Laboratory · Yanbu · Full time",
+            "href": "/contact"
+          },
+          {
+            "t": "[Safety Trainer]",
+            "d": "Training centre · Yanbu · Full time",
+            "href": "/contact"
+          }
+        ]
+      },
+      {
+        "kind": "steps",
+        "eyebrow": "HOW TO APPLY",
+        "heading": "Simple, fast hiring",
+        "items": [
+          {
+            "t": "Apply",
+            "d": "Send your CV and certificates."
+          },
+          {
+            "t": "Screen",
+            "d": "Short call with our HR team."
+          },
+          {
+            "t": "Assess",
+            "d": "Technical interview or practical test."
+          },
+          {
+            "t": "Offer",
+            "d": "Offer and mobilisation."
+          }
+        ]
+      }
+    ],
+    "relatedLabel": "ALSO SEE",
+    "related": [
+      {
+        "t": "Training courses",
+        "href": "/training"
+      },
+      {
+        "t": "About us",
+        "href": "/about"
+      },
+      {
+        "t": "Contact",
+        "href": "/contact"
+      }
+    ],
+    "ctaTitle": "Do not see your role? Send us your CV.",
+    "path": "/about/career"
+  }
+]

@@ -1,0 +1,60 @@
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  images: { formats: ['image/avif', 'image/webp'] },
+  async redirects() {
+    // Old WordPress URLs -> new routes, so existing Google results and links keep working
+    return [
+      { source: '/asset-integrity', destination: '/inspection/asset-integrity', permanent: true },
+      { source: '/qa-qc-project-management', destination: '/inspection/qa-qc-project-management', permanent: true },
+      { source: '/third-party-inspection', destination: '/inspection/third-party-inspection', permanent: true },
+      { source: '/welding-2', destination: '/welding', permanent: true },
+      { source: '/ultrasonic-testing-accurate-reliable-ndt-evaluation', destination: '/ndt/ultrasonic-testing', permanent: true },
+      { source: '/radiographic-testing-precision-imaging-for-non-destructive-evaluation', destination: '/ndt/radiographic-testing', permanent: true },
+      { source: '/magnetic-particle-testing', destination: '/ndt/magnetic-particle-testing', permanent: true },
+      { source: '/positive-material-identification', destination: '/ndt/positive-material-identification', permanent: true },
+      { source: '/penetrant-testing', destination: '/ndt/penetrant-testing', permanent: true },
+      { source: '/hardness-test', destination: '/ndt/hardness-test', permanent: true },
+      { source: '/rope-access', destination: '/ndt/rope-access', permanent: true },
+      { source: '/advanced-ndt-services', destination: '/ndt/advanced-ndt-services', permanent: true },
+      { source: '/civil-structural-geo', destination: '/civil-structural-geo', permanent: false },
+      { source: '/safety-orientation-induction-training', destination: '/training/safety-orientation-induction', permanent: true },
+      { source: '/permit-receiver-training-examination', destination: '/training/permit-receiver', permanent: true },
+      { source: '/safety-officer-training-examination', destination: '/training/safety-officer', permanent: true },
+      { source: '/rigger-training-examination', destination: '/training/rigger', permanent: true },
+      { source: '/fire-watcher-training-examination', destination: '/training/fire-watcher', permanent: true },
+      { source: '/flagman-traffic-marshal-training', destination: '/training/flagman-traffic-marshal', permanent: true },
+      { source: '/equipment-operator-safety-training', destination: '/training/equipment-operator-safety', permanent: true },
+      { source: '/work-at-height-safety-training', destination: '/training/work-at-height', permanent: true },
+      { source: '/scaffolding-training-certification', destination: '/training/scaffolding', permanent: true },
+      { source: '/welding-inspection-courses', destination: '/training/welding-inspection-courses', permanent: true },
+      { source: '/ndt-training-courses', destination: '/training/ndt-training-courses', permanent: true },
+      { source: '/api-training-courses', destination: '/training/api-training-courses', permanent: true },
+      { source: '/re-rto-renewal-stu-course', destination: '/training/re-rto-renewal-stu', permanent: true },
+      { source: '/bespoke-training', destination: '/training/bespoke-training', permanent: true },
+      { source: '/plant-industrial-services', destination: '/services/plant-industrial-services', permanent: true },
+      { source: '/operation-maintenance', destination: '/services/operation-maintenance', permanent: true },
+      { source: '/plant-machinery-vehicle', destination: '/services/plant-machinery-vehicle', permanent: true },
+      { source: '/housing-services', destination: '/services/housing', permanent: true },
+      { source: '/remote-services', destination: '/services/remote-services', permanent: true },
+      { source: '/pressure-calibration', destination: '/calibration/pressure', permanent: true },
+      { source: '/dimensional-calibration', destination: '/calibration/dimensional', permanent: true },
+      { source: '/electrical-calibration', destination: '/calibration/electrical', permanent: true },
+      { source: '/thermal-calibration', destination: '/calibration/thermal', permanent: true },
+      { source: '/torque-calibration', destination: '/calibration/torque', permanent: true },
+      { source: '/flow-meter-calibration', destination: '/calibration/flow-meter', permanent: true },
+      { source: '/mass-volume-calibration', destination: '/calibration/mass-volume', permanent: true },
+      { source: '/gas-detector-calibration', destination: '/calibration/gas-detector', permanent: true },
+      { source: '/onsite-calibration', destination: '/calibration/onsite', permanent: true },
+      { source: '/ups-online-offline', destination: '/manufacturing/ups-online-offline', permanent: true },
+      { source: '/servostabilizer', destination: '/manufacturing/servo-stabilizer', permanent: true },
+      { source: '/welding-electrodes', destination: '/manufacturing/welding-electrodes', permanent: true },
+      { source: '/welding-machines-and-consumables', destination: '/manufacturing/welding-machines-consumables', permanent: true },
+      { source: '/safety-equipments-and-accessories', destination: '/manufacturing/safety-equipment', permanent: true },
+      { source: '/certifications-and-awards', destination: '/about/certifications', permanent: true },
+      { source: '/career', destination: '/about/career', permanent: true },
+      { source: '/contact-us', destination: '/contact', permanent: true }
+    ].filter((r) => r.source !== r.destination);
+  }
+};
+
+export default nextConfig;
